@@ -33,10 +33,9 @@ class AccountPermissions(BaseModel):
     can_view_services: bool = Field(default=True)
     can_manage_services: bool = Field(default=False)
     
-    # Contact & Newsletter permissions
+    # Contact permissions
     can_view_contacts: bool = Field(default=False)
     can_export_contacts: bool = Field(default=False)
-    can_view_newsletter: bool = Field(default=False)
     
     # Account management permissions
     can_invite_users: bool = Field(default=False)
