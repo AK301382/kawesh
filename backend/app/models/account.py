@@ -29,12 +29,6 @@ class AccountPermissions(BaseModel):
     can_edit_portfolio: bool = Field(default=False)
     can_delete_portfolio: bool = Field(default=False)
     
-    # Blog permissions
-    can_view_blog: bool = Field(default=True)
-    can_create_blog: bool = Field(default=False)
-    can_edit_blog: bool = Field(default=False)
-    can_delete_blog: bool = Field(default=False)
-    
     # Service permissions
     can_view_services: bool = Field(default=True)
     can_manage_services: bool = Field(default=False)
