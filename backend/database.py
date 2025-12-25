@@ -10,9 +10,7 @@ db = client[db_name]
 
 # Collections
 contacts_collection = db.contacts
-newsletter_collection = db.newsletter
 portfolio_collection = db.portfolio
-blog_collection = db.blog
 service_inquiries_collection = db.service_inquiries
 consultation_bookings_collection = db.consultation_bookings
 
