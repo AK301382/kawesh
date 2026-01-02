@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "About Kawesh",
+    "title1": "Building Tomorrow's",
+    "title2": "Software Today",
+    "description": "We're a team of passionate innovators, designers, and engineers dedicated to creating exceptional digital experiences that transform businesses."
+  },
+  "stats": {
+    "projectsCompleted": "Projects Completed",
+    "happyClients": "Happy Clients",
+    "teamMembers": "Team Members",
+    "countriesServed": "Countries Served"
+  },
+  "story": {
+    "title": "Our Story",
+    "paragraph1": "Founded in 2018, Kawesh began with a simple yet powerful vision: to bridge the gap between ambitious ideas and exceptional software solutions. What started as a small team of passionate developers has grown into a full-service digital agency serving clients worldwide.",
+    "paragraph2": "Today, we're proud to be at the forefront of digital innovation, helping businesses of all sizes transform their operations and achieve their goals through technology. Our commitment to excellence and innovation drives everything we do."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To empower businesses through innovative technology solutions that drive growth, efficiency, and success. We're committed to delivering exceptional value and building lasting partnerships with our clients."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "description": "To be the world's most trusted partner for digital transformation, recognized for our innovation, quality, and the positive impact we create for businesses and communities globally."
+  },
+  "values": {
+    "title": "Our Core Values",
+    "subtitle": "The principles that guide our work and define who we are",
+    "innovation": {
+      "title": "Innovation First",
+      "description": "We embrace cutting-edge technologies and creative solutions to solve complex problems."
+    },
+    "trust": {
+      "title": "Trust & Transparency",
+      "description": "Building lasting relationships through honest communication and reliable delivery."
+    },
+    "excellence": {
+      "title": "Excellence",
+      "description": "Committed to delivering the highest quality in every line of code we write."
+    },
+    "collaboration": {
+      "title": "Collaboration",
+      "description": "Working together with our clients as partners to achieve extraordinary results."
+    }
+  },
+  "team": {
+    "title": "Meet Our Leadership",
+    "subtitle": "The passionate individuals driving innovation and excellence",
+    "members": {
+      "ceo": {
+        "name": "Sarah Johnson",
+        "role": "CEO & Founder",
+        "bio": "Visionary leader with 15+ years in tech innovation."
+      },
+      "cto": {
+        "name": "Michael Chen",
+        "role": "CTO",
+        "bio": "Technical architect passionate about scalable solutions."
+      },
+      "design": {
+        "name": "Emily Rodriguez",
+        "role": "Head of Design",
+        "bio": "Creative director crafting beautiful user experiences."
+      },
+      "engineering": {
+        "name": "David Park",
+        "role": "VP of Engineering",
+        "bio": "Engineering leader building high-performance teams."
+      }
+    }
+  },
+  "timeline": {
+    "title": "Our Journey",
+    "subtitle": "Milestones that shaped our story",
+    "2018": {
+      "event": "Founded Kawesh",
+      "description": "Started with a vision to transform digital experiences"
+    },
+    "2019": {
+      "event": "First 50 Clients",
+      "description": "Reached milestone of serving 50 satisfied clients"
+    },
+    "2021": {
+      "event": "International Expansion",
+      "description": "Opened offices in 3 countries"
+    },
+    "2023": {
+      "event": "Industry Recognition",
+      "description": "Won Best Software Agency Award"
+    },
+    "2024": {
+      "event": "Innovation Lab",
+      "description": "Launched R&D division for emerging tech"
+    }
+  },
+  "cta": {
+    "title": "Ready to Work Together?",
+    "description": "Let's create something amazing. Join the 200+ companies who trust us with their digital transformation.",
+    "startProject": "Start Your Project",
+    "viewWork": "View Our Work"
+  },
+  "seo": {
+    "title": "About Us - Kawesh",
+    "description": "Learn about Kawesh's mission, values, and the team behind innovative software solutions. Building tomorrow's technology today.",
+    "keywords": "about kawesh, software agency, team, mission, values"
+  }
+}

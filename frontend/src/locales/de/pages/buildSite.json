@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "badge": "Erstellen Sie Ihre Website in Minuten",
+    "title": "Ihre Seite, Ihr Weg.",
+    "subtitle": "Bauen Sie die Zukunft Ihres Unternehmens mit Build Site hier auf.",
+    "description": "Erstellen Sie mit nur wenigen Klicks eine professionelle Website für Ihr Unternehmen. Wählen Sie aus unseren sorgfältig gestalteten Vorlagen, die speziell für Ihre Branche entwickelt wurden.",
+    "highlight": "Die Tatsache, dass Sie Ihre Website mit nur wenigen Klicks erstellen können, ist das Ergebnis monatelanger Arbeit an Vorlagen.",
+    "description2": "Ob Sie einen Friseursalon, eine medizinische Klinik, ein Café oder ein anderes Geschäft betreiben, wir haben eine Vorlage, die perfekt zu Ihren Bedürfnissen passt. Alle Vorlagen sind mobilfreundlich, SEO-optimiert und startbereit.",
+    "freeToStart": "100% KOSTENLOS zum Starten",
+    "freeTemplatesCount": "40 Kostenlose Vorlagen",
+    "premiumTemplatesCount": "20 Premium-Vorlagen"
+  },
+  "search": {
+    "placeholder": "Vorlagen durchsuchen (z.B. Restaurant, Salon, Medizin...)",
+    "found": "Gefunden",
+    "templatesMatching": "Vorlagen passend zu"
+  },
+  "filters": {
+    "all": "Alle",
+    "free": "Kostenlos",
+    "premium": "Premium"
+  },
+  "sections": {
+    "allTemplates": {
+      "badge": "Alle Vorlagen",
+      "title": "Alle Vorlagen durchsuchen",
+      "description": "Entdecken Sie unsere vollständige Sammlung kostenloser und Premium-Vorlagen"
+    },
+    "freeTemplates": {
+      "badge": "Kostenlose Vorlagen",
+      "title": "Kostenlose Vorlagen",
+      "description": "Perfekter Ausgangspunkt für jedes Unternehmen"
+    },
+    "premiumTemplates": {
+      "badge": "Erweiterte Funktionen Enthalten",
+      "title": "Premium-Vorlagen",
+      "description": "Bringen Sie Ihr Unternehmen mit erweiterten Funktionen wie Buchungssystemen, Zahlungsintegration, Kundenportalen und mehr auf die nächste Stufe."
+    }
+  },
+  "buttons": {
+    "viewTemplate": "Vorlage Ansehen",
+    "showMore": "Mehr Anzeigen",
+    "showLess": "Weniger Anzeigen",
+    "loadMore": "Weitere Vorlagen Laden",
+    "loadMorePremium": "Weitere Premium Laden",
+    "clearSearch": "Suche Löschen",
+    "startProject": "Starten Sie Ihr Projekt",
+    "exploreServices": "Unsere Dienste Erkunden",
+    "getStarted": "Jetzt Starten - Es ist Kostenlos!"
+  },
+  "messages": {
+    "noTemplatesFound": "Keine Vorlagen gefunden",
+    "noTemplatesDescription": "Versuchen Sie, Ihre Suchkriterien anzupassen",
+    "noFreeTemplatesFound": "Keine kostenlosen Vorlagen gefunden",
+    "noPremiumTemplatesFound": "Keine Premium-Vorlagen gefunden",
+    "remaining": "verbleibend",
+    "loadMoreFree": "Weitere Vorlagen Laden",
+    "loadMorePremiumCount": "Weitere Premium Laden"
+  },
+  "cta": {
+    "title": "Bereit, Ihre Website zu erstellen?",
+    "description": "Schließen Sie sich Tausenden von Unternehmen an, die bereits ihre professionellen Websites mit Kawesh gestartet haben.",
+    "button": "Jetzt Starten",
+    "benefits": {
+      "freeConsultation": "Kostenlose Beratung",
+      "customProposal": "Individuelles Angebot",
+      "provenProcess": "Bewährter Prozess"
+    }
+  },
+  "features": {
+    "mobileResponsive": "Mobile Responsive",
+    "seoOptimized": "SEO-Optimiert",
+    "easyCustomization": "Einfache Anpassung",
+    "fastLoading": "Schnelles Laden",
+    "specialFeatures": "Besondere Eigenschaften:"
+  }
+}

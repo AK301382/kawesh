@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "title": "Admin-Panel",
+    "subtitle": "Melden Sie sich an, um auf das Dashboard zuzugreifen",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "usernamePlaceholder": "Geben Sie Ihren Benutzernamen ein",
+    "passwordPlaceholder": "Geben Sie Ihr Passwort ein",
+    "loginButton": "Anmelden",
+    "loggingIn": "Anmeldung läuft..."
+  }
+}

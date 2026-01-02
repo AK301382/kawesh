@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "badge": "Build Your Website in Minutes",
+    "title": "Your Site, Your Way.",
+    "subtitle": "Build the future of your business with Build Site here.",
+    "description": "Create a professional website for your business with just a few clicks. Choose from our carefully crafted templates designed specifically for your industry.",
+    "highlight": "The fact that you can build your website with just a few clicks is the result of months of our work on templates.",
+    "description2": "Whether you're running a hair salon, medical clinic, café, or any other business, we have a template that fits your needs perfectly. All templates are mobile-responsive, SEO-optimized, and ready to launch.",
+    "freeToStart": "100% FREE to Start",
+    "freeTemplatesCount": "40 Free Templates",
+    "premiumTemplatesCount": "20 Premium Templates"
+  },
+  "search": {
+    "placeholder": "Search templates (e.g., restaurant, salon, medical...)",
+    "found": "Found",
+    "templatesMatching": "templates matching"
+  },
+  "filters": {
+    "all": "All",
+    "free": "Free",
+    "premium": "Premium"
+  },
+  "sections": {
+    "allTemplates": {
+      "badge": "All Templates",
+      "title": "Browse All Templates",
+      "description": "Explore our complete collection of free and premium templates"
+    },
+    "freeTemplates": {
+      "badge": "Free Templates",
+      "title": "Free Templates",
+      "description": "Perfect starting point for any business"
+    },
+    "premiumTemplates": {
+      "badge": "Advanced Features Included",
+      "title": "Premium Templates",
+      "description": "Take your business to the next level with advanced features like booking systems, payment integration, customer portals, and more."
+    }
+  },
+  "buttons": {
+    "viewTemplate": "View Template",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "loadMore": "Load More Templates",
+    "loadMorePremium": "Load More Premium",
+    "clearSearch": "Clear Search",
+    "startProject": "Start Your Project",
+    "exploreServices": "Explore Our Services",
+    "getStarted": "Get Started Now - It's Free!"
+  },
+  "messages": {
+    "noTemplatesFound": "No templates found",
+    "noTemplatesDescription": "Try adjusting your search terms",
+    "noFreeTemplatesFound": "No free templates found",
+    "noPremiumTemplatesFound": "No premium templates found",
+    "remaining": "remaining",
+    "loadMoreFree": "Load More Templates",
+    "loadMorePremiumCount": "Load More Premium"
+  },
+  "cta": {
+    "title": "Ready to Build Your Website?",
+    "description": "Join thousands of businesses who have already launched their professional websites with Kawesh.",
+    "button": "Get Started Now",
+    "benefits": {
+      "freeConsultation": "Free Consultation",
+      "customProposal": "Custom Proposal",
+      "provenProcess": "Proven Process"
+    }
+  },
+  "features": {
+    "mobileResponsive": "Mobile Responsive",
+    "seoOptimized": "SEO Optimized",
+    "easyCustomization": "Easy Customization",
+    "fastLoading": "Fast Loading",
+    "specialFeatures": "Special Features:"
+  }
+}

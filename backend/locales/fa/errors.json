@@ -1,0 +1,67 @@
+{
+  "auth": {
+    "invalid_credentials": "نام کاربری یا رمز عبور نامعتبر است",
+    "invalid_token": "توکن نامعتبر است",
+    "token_expired": "توکن منقضی شده است",
+    "unauthorized": "دسترسی غیرمجاز",
+    "forbidden": "دسترسی ممنوع",
+    "could_not_validate": "اعتبارسنجی امکان‌پذیر نیست",
+    "customer_not_found": "مشتری یافت نشد",
+    "account_not_found": "حساب کاربری یافت نشد",
+    "account_deactivated": "حساب کاربری غیرفعال شده است",
+    "customer_deactivated": "حساب مشتری غیرفعال شده است",
+    "email_already_exists": "این ایمیل قبلاً ثبت شده است",
+    "account_email_already_exists": "حساب کاربری با این ایمیل قبلاً برای این مشتری وجود دارد",
+    "invitation_invalid": "توکن دعوت نامعتبر است",
+    "invitation_expired": "دعوتنامه قبلاً پذیرفته شده یا منقضی شده است",
+    "account_not_active": "حساب کاربری فعال نیست",
+    "invitation_not_accepted": "لطفاً ابتدا دعوتنامه خود را بپذیرید",
+    "permission_denied": "شما اجازه انجام این عملیات را ندارید",
+    "cannot_change_owner_role": "نقش مالک قابل تغییر نیست",
+    "cannot_change_owner_permissions": "مجوزهای مالک قابل تغییر نیست",
+    "cannot_deactivate_owner": "حساب مالک قابل غیرفعال کردن نیست",
+    "cannot_delete_owner": "حساب مالک قابل حذف نیست",
+    "only_owner_can_delete": "فقط مالک می‌تواند حساب‌ها را حذف کند",
+    "no_permission_change_roles": "شما اجازه تغییر نقش‌ها را ندارید",
+    "no_permission_change_permissions": "شما اجازه تغییر مجوزها را ندارید",
+    "no_permission_deactivate": "شما اجازه غیرفعال کردن حساب‌ها را ندارید",
+    "current_password_incorrect": "رمز عبور فعلی نادرست است",
+    "invalid_verification_token": "توکن تایید نامعتبر است",
+    "access_denied_to_account": "دسترسی به این حساب کاربری ممنوع است"
+  },
+  "database": {
+    "connection_failed": "اتصال به پایگاه داده ناموفق بود",
+    "operation_failed": "عملیات پایگاه داده ناموفق بود",
+    "not_found": "رکورد مورد نظر یافت نشد"
+  },
+  "validation": {
+    "required_field": "فیلد {field} الزامی است",
+    "invalid_email": "ایمیل نامعتبر است",
+    "invalid_phone": "شماره تلفن نامعتبر است",
+    "invalid_format": "فرمت {field} نامعتبر است",
+    "min_length": "{field} باید حداقل {min} کاراکتر باشد",
+    "max_length": "{field} نباید بیشتر از {max} کاراکتر باشد",
+    "already_exists": "این مورد قبلاً وجود دارد"
+  },
+  "portfolio": {
+    "not_found": "پروژه '{slug}' یافت نشد",
+    "item_not_found": "آیتم پورتفولیو یافت نشد",
+    "failed_to_fetch": "دریافت پروژه‌ها ناموفق بود"
+  },
+  "services": {
+    "inquiry_failed": "ارسال درخواست ناموفق بود",
+    "booking_failed": "رزرو مشاوره ناموفق بود",
+    "service_not_found": "سرویس یافت نشد",
+    "inquiry_not_found": "درخواست سرویس یافت نشد",
+    "consultation_not_found": "رزرو مشاوره یافت نشد"
+  },
+  "contact": {
+    "submission_failed": "ارسال فرم تماس ناموفق بود",
+    "not_found": "فرم تماس یافت نشد"
+  },
+  "server": {
+    "internal_error": "خطای داخلی سرور",
+    "service_unavailable": "سرویس در دسترس نیست",
+    "bad_request": "درخواست نامعتبر"
+  }
+}
