@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Card, CardContent } from '../ui/card';
 import { Star, ChevronLeft, ChevronRight, Send, CheckCircle2 } from 'lucide-react';
