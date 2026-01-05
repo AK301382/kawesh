@@ -8,6 +8,25 @@ const Testimonials = () => {
   const { t } = useTranslation(['testimonials']);
   const [currentIndex, setCurrentIndex] = useState(0);
   const itemsPerView = 3;
+  
+  // Get testimonials from translations
+  const testimonials = useMemo(() => {
+    const items = [];
+    for (let i = 1; i <= 18; i++) {
+      const testimonialData = {
+        id: i,
+        quote: t(`testimonials:items.${i}.quote`),
+        author: t(`testimonials:items.${i}.author`),
+        role: t(`testimonials:items.${i}.role`),
+        company: t(`testimonials:items.${i}.company`),
+        rating: 5,
+        projectType: t(`testimonials:items.${i}.projectType`)
+      };
+      items.push(testimonialData);
+    }
+    return items;
+  }, [t]);
+  
   const totalTestimonials = testimonials.length;
   
   // State for review form
