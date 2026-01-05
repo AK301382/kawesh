@@ -18,7 +18,7 @@ const ServiceTestimonials = ({ testimonials }) => {
             {t('testimonials:subtitle')}
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-300">
-            Hear from clients who have experienced the quality and impact of our services firsthand.
+            {t('testimonials:description')}
           </p>
         </div>
 
