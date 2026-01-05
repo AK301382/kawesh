@@ -4,6 +4,8 @@ import { Card, CardContent } from '../../../components/ui/card';
 import { Star, Quote } from 'lucide-react';
 
 const ServiceTestimonials = ({ testimonials }) => {
+  const { t } = useTranslation(['testimonials']);
+  
   if (!testimonials || testimonials.length === 0) {
     return null;
   }
