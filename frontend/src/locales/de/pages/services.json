@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "badge": "Unsere Dienstleistungen",
+    "title1": "Verwandeln Sie Ihre Vision in",
+    "title2": "Digitale Exzellenz",
+    "description": "Bei Kawesh bauen wir nicht nur Software – wir schaffen digitale Erlebnisse, die echte Geschäftsergebnisse erzielen. Mit einer perfekten Mischung aus strategischem Denken, kreativem Design und technischer Exzellenz haben wir über 150 Unternehmen geholfen, ihre digitale Präsenz zu transformieren und messbares Wachstum zu erzielen.",
+    "consultation": "Kostenlose Beratung Erhalten",
+    "viewPortfolio": "Unser Portfolio Ansehen",
+    "yearsExcellence": "Jahre Exzellenz",
+    "projectsDelivered": "Projekte Geliefert",
+    "clientSatisfaction": "Kundenzufriedenheit"
+  },
+  "stats": {
+    "projects": "Erfolgreiche Projekte",
+    "clients": "Zufriedene Kunden",
+    "satisfaction": "Kundenzufriedenheit",
+    "support": "Support Verfügbar"
+  },
+  "whyUs": {
+    "title": "Warum Kawesh Wählen?",
+    "description": "Wir sind nicht nur eine weitere Agentur. Wir sind Ihr strategischer Partner bei der digitalen Transformation, der sich bei jedem Schritt Ihrem Erfolg verpflichtet fühlt.",
+    "strategicPlanning": {
+      "title": "Strategische Planung",
+      "description": "Jedes Projekt beginnt mit gründlicher Recherche und strategischer Planung, die auf Ihre Geschäftsziele ausgerichtet ist"
+    },
+    "fastDelivery": {
+      "title": "Blitzschnelle Lieferung",
+      "description": "Agile Methodik gewährleistet schnelle Entwicklung ohne Kompromisse bei der Qualität"
+    },
+    "security": {
+      "title": "Unternehmenssicherheit",
+      "description": "Sicherheitsmaßnahmen auf Bankniveau zum Schutz Ihrer Daten und Ihrer Kunden"
+    },
+    "multilingual": {
+      "title": "Mehrsprachiger Support",
+      "description": "Bauen Sie für globale Zielgruppen mit umfassender Internationalisierung"
+    },
+    "scalable": {
+      "title": "Skalierbare Lösungen",
+      "description": "Architektur, die nahtlos mit Ihrem Unternehmen wächst"
+    },
+    "dedicatedTeam": {
+      "title": "Engagiertes Team",
+      "description": "Ihr Erfolg ist unsere Priorität mit fortlaufendem Support und Wartung"
+    }
+  },
+  "services": {
+    "title": "Unsere Umfassenden Dienstleistungen",
+    "description": "End-to-End-Digitallösungen, die auf Ihre einzigartigen Geschäftsanforderungen zugeschnitten sind. Vom Konzept bis zur Bereitstellung und darüber hinaus – wir haben alles abgedeckt.",
+    "whatsIncluded": "Was Enthalten Ist:",
+    "exploreService": "Dienst Erkunden"
+  },
+  "faq": {
+    "title": "Häufig Gestellte Fragen",
+    "description": "Schnelle Antworten auf häufige Fragen zu unseren Dienstleistungen",
+    "question1": {
+      "q": "Wie lange dauert ein typisches Projekt?",
+      "a": "Projektzeitpläne variieren je nach Komplexität. Eine Basis-Website dauert 4-6 Wochen, während komplexe Anwendungen 3-6 Monate dauern können. Wir bieten detaillierte Zeitpläne während unserer ersten Beratung."
+    },
+    "question2": {
+      "q": "Wie gehen Sie an die Projektdefinition heran?",
+      "a": "Wir beginnen mit einer detaillierten Beratung, um Ihre spezifischen Bedürfnisse und Ziele zu verstehen. Jedes Projekt erhält ein maßgeschneidertes Angebot, das auf Ihre Anforderungen, Zeitplan und Ziele zugeschnitten ist."
+    },
+    "question3": {
+      "q": "Bieten Sie fortlaufenden Support und Wartung an?",
+      "a": "Absolut! Wir bieten umfassende Wartungspakete einschließlich Updates, Sicherheitspatches, Leistungsoptimierung und 24/7 technischen Support, um Ihre digitalen Assets reibungslos am Laufen zu halten."
+    },
+    "question4": {
+      "q": "Können Sie mit unserem bestehenden Technologie-Stack arbeiten?",
+      "a": "Ja! Unser Team ist mit einer breiten Palette von Technologien erfahren. Ob Sie Integration mit bestehenden Systemen oder einen kompletten Neuaufbau benötigen, wir passen uns Ihren technischen Anforderungen an."
+    },
+    "stillHaveQuestions": "Haben Sie noch Fragen? Wir sind hier, um zu helfen!",
+    "contactTeam": "Kontaktieren Sie Unser Team"
+  },
+  "cta": {
+    "title": "Bereit, Ihr Geschäft Zu Transformieren?",
+    "description": "Lassen Sie uns Ihre Vision in die Realität umsetzen. Buchen Sie noch heute eine kostenlose Beratung und entdecken Sie, wie Kawesh Ihnen helfen kann, Ihre digitalen Ziele zu erreichen.",
+    "freeConsultation": "Kostenlose Beratung",
+    "noObligation": "Unverbindliches Angebot",
+    "support247": "24/7 Support",
+    "scheduleConsultation": "Kostenlose Beratung Planen",
+    "explorePortfolio": "Portfolio Erkunden",
+    "trustedBy": "Vertraut von führenden Unternehmen weltweit",
+    "fortune500": "Fortune 500 Unternehmen",
+    "startups": "Startups & KMUs",
+    "enterprises": "Globale Unternehmen"
+  },
+  "metaSeo": {
+    "title": "Unsere Dienstleistungen - Professionelle Digitale Lösungen | Kawesh",
+    "description": "Entdecken Sie Kaweshs umfassende digitale Dienstleistungen: Webentwicklung, Mobile Apps, Cloud-Lösungen, UI/UX-Design, Digitales Marketing und DevOps. Transformieren Sie Ihr Geschäft mit unserem Expertenteam.",
+    "keywords": "Webentwicklungsdienste, Mobile-App-Entwicklung, Cloud-Lösungen, UI/UX-Design, Digitales Marketing, DevOps-Dienste, Softwareentwicklungsagentur"
+  }
+}

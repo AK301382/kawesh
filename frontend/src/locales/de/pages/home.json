@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "badge": "🚀 Führend in Webdesign & Entwicklung in Herat",
+    "title1": "Wir verwandeln Ihre Ideen in",
+    "title2": "Digitale Produkte",
+    "description": "Kawesh - Ihr digitaler Partner in Herat, Afghanistan. Wir erstellen professionelle Websites, mobile Anwendungen und Softwarelösungen, die Ihr Geschäft transformieren.",
+    "startProject": "Projekt Starten",
+    "viewWork": "Unsere Arbeit Ansehen",
+    "stats": {
+      "projects": "Erfolgreiche Projekte",
+      "clients": "Zufriedene Kunden",
+      "satisfaction": "Kundenzufriedenheit"
+    }
+  },
+  "featuredProjects": {
+    "badge": "Ausgewählte Projekte",
+    "title": "Erfolgsgeschichten, die inspirieren",
+    "description": "Echte Projekte, echte Ergebnisse. Sehen Sie, wie wir Unternehmen mit modernsten Lösungen transformiert haben",
+    "viewCaseStudy": "Vollständige Fallstudie ansehen",
+    "viewAllProjects": "Alle Projekte ansehen"
+  },
+  "seo": {
+    "title": "Kawesh - Webdesign & Softwareentwicklung in Herat | Professionelle Digitale Dienstleistungen",
+    "description": "Kawesh bietet Webdesign, Mobile-App-Entwicklung und Softwarelösungen in Herat, Afghanistan. Mit einem professionellen und erfahrenen Team digitalisieren wir Ihr Geschäft.",
+    "keywords": "webdesign herat, app entwicklung herat, website design afghanistan, software firma herat, web entwicklung herat, UI UX design herat, SEO afghanistan, digitales marketing herat"
+  }
+}

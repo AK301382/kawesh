@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "badge": "Über Kawesh",
+    "title1": "Die Software von Morgen",
+    "title2": "Heute Bauen",
+    "description": "Wir sind ein Team leidenschaftlicher Innovatoren, Designer und Ingenieure, die sich der Schaffung außergewöhnlicher digitaler Erlebnisse verschrieben haben, die Unternehmen transformieren."
+  },
+  "stats": {
+    "projectsCompleted": "Abgeschlossene Projekte",
+    "happyClients": "Zufriedene Kunden",
+    "teamMembers": "Teammitglieder",
+    "countriesServed": "Bediente Länder"
+  },
+  "story": {
+    "title": "Unsere Geschichte",
+    "paragraph1": "2018 gegründet, begann Kawesh mit einer einfachen, aber kraftvollen Vision: die Lücke zwischen ehrgeizigen Ideen und außergewöhnlichen Softwarelösungen zu schließen. Was als kleines Team leidenschaftlicher Entwickler begann, ist zu einer Full-Service-Digitalagentur gewachsen, die Kunden weltweit bedient.",
+    "paragraph2": "Heute sind wir stolz darauf, an der Spitze der digitalen Innovation zu stehen und Unternehmen jeder Größe dabei zu helfen, ihre Betriebsabläufe zu transformieren und ihre Ziele durch Technologie zu erreichen. Unser Engagement für Exzellenz und Innovation treibt alles an, was wir tun."
+  },
+  "mission": {
+    "title": "Unsere Mission",
+    "description": "Unternehmen durch innovative Technologielösungen zu stärken, die Wachstum, Effizienz und Erfolg fördern. Wir sind bestrebt, außergewöhnlichen Wert zu liefern und dauerhafte Partnerschaften mit unseren Kunden aufzubauen."
+  },
+  "vision": {
+    "title": "Unsere Vision",
+    "description": "Der vertrauenswürdigste Partner der Welt für digitale Transformation zu sein, anerkannt für unsere Innovation, Qualität und den positiven Einfluss, den wir für Unternehmen und Gemeinschaften weltweit schaffen."
+  },
+  "values": {
+    "title": "Unsere Grundwerte",
+    "subtitle": "Die Prinzipien, die unsere Arbeit leiten und definieren, wer wir sind",
+    "innovation": {
+      "title": "Innovation Zuerst",
+      "description": "Wir nutzen modernste Technologien und kreative Lösungen, um komplexe Probleme zu lösen."
+    },
+    "trust": {
+      "title": "Vertrauen & Transparenz",
+      "description": "Aufbau dauerhafter Beziehungen durch ehrliche Kommunikation und zuverlässige Lieferung."
+    },
+    "excellence": {
+      "title": "Exzellenz",
+      "description": "Verpflichtet, die höchste Qualität in jeder Codezeile zu liefern, die wir schreiben."
+    },
+    "collaboration": {
+      "title": "Zusammenarbeit",
+      "description": "Zusammenarbeit mit unseren Kunden als Partner, um außergewöhnliche Ergebnisse zu erzielen."
+    }
+  },
+  "team": {
+    "title": "Lernen Sie Unsere Führung Kennen",
+    "subtitle": "Die leidenschaftlichen Personen, die Innovation und Exzellenz vorantreiben",
+    "members": {
+      "ceo": {
+        "name": "Sarah Johnson",
+        "role": "CEO & Gründerin",
+        "bio": "Visionäre Führerin mit 15+ Jahren Erfahrung in Tech-Innovation."
+      },
+      "cto": {
+        "name": "Michael Chen",
+        "role": "CTO",
+        "bio": "Technischer Architekt mit Leidenschaft für skalierbare Lösungen."
+      },
+      "design": {
+        "name": "Emily Rodriguez",
+        "role": "Leiterin Design",
+        "bio": "Kreativdirektorin, die schöne Benutzererlebnisse schafft."
+      },
+      "engineering": {
+        "name": "David Park",
+        "role": "VP Engineering",
+        "bio": "Engineering-Leiter, der Hochleistungsteams aufbaut."
+      }
+    }
+  },
+  "timeline": {
+    "title": "Unsere Reise",
+    "subtitle": "Meilensteine, die unsere Geschichte geprägt haben",
+    "2018": {
+      "event": "Kawesh Gegründet",
+      "description": "Begonnen mit einer Vision, digitale Erlebnisse zu transformieren"
+    },
+    "2019": {
+      "event": "Erste 50 Kunden",
+      "description": "Meilenstein von 50 zufriedenen Kunden erreicht"
+    },
+    "2021": {
+      "event": "Internationale Expansion",
+      "description": "Büros in 3 Ländern eröffnet"
+    },
+    "2023": {
+      "event": "Branchenanerkennung",
+      "description": "Best Software Agency Award gewonnen"
+    },
+    "2024": {
+      "event": "Innovationslabor",
+      "description": "F&E-Abteilung für aufkommende Technologien gestartet"
+    }
+  },
+  "cta": {
+    "title": "Bereit Zusammenzuarbeiten?",
+    "description": "Lassen Sie uns etwas Erstaunliches schaffen. Schließen Sie sich den 200+ Unternehmen an, die uns mit ihrer digitalen Transformation vertrauen.",
+    "startProject": "Projekt Starten",
+    "viewWork": "Unsere Arbeit Ansehen"
+  },
+  "seo": {
+    "title": "Über Uns - Kawesh",
+    "description": "Erfahren Sie mehr über Kaweshs Mission, Werte und das Team hinter innovativen Softwarelösungen. Die Technologie von morgen heute bauen.",
+    "keywords": "über kawesh, software agentur, team, mission, werte"
+  }
+}

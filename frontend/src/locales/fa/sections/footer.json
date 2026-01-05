@@ -1,0 +1,29 @@
+{
+  "description": "کاوش - ارائه دهنده خدمات طراحی وب، توسعه اپلیکیشن و راه حل های دیجیتال در هرات، افغانستان",
+  "quickLinks": "لینک های سریع",
+  "services": "خدمات ما",
+  "company": "شرکت",
+  "resources": "منابع",
+  "followUs": "ما را دنبال کنید",
+  "aboutUs": "درباره ما",
+  "ourTeam": "تیم ما",
+  "careers": "فرصت های شغلی",
+  "customDevelopment": "توسعه سفارشی",
+  "productDesign": "طراحی محصول",
+  "cloudDevOps": "کلود و DevOps",
+  "consulting": "مشاوره",
+  "caseStudies": "مطالعات موردی",
+  "newsletter": {
+    "title": "خبرنامه",
+    "description": "برای دریافت آخرین اخبار و پیشنهادات ویژه عضو شوید",
+    "placeholder": "ایمیل خود را وارد کنید",
+    "subscribe": "عضویت",
+    "success": "با موفقیت مشترک شدید",
+    "error": "خطا در عضویت"
+  },
+  "rights": "تمامی حقوق محفوظ است.",
+  "privacyPolicy": "سیاست حفظ حریم خصوصی",
+  "termsOfService": "شرایط استفاده",
+  "cookiePolicy": "سیاست کوکی",
+  "sitemap": "نقشه سایت"
+}

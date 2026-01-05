@@ -1,0 +1,57 @@
+{
+  "title": "Unser Arbeitsprozess",
+  "subtitle": "Von der Idee zur Umsetzung - Schritt für Schritt",
+  "ourProcess": "Unser Prozess",
+  "howWeWork": "Wie Wir Arbeiten",
+  "description": "Eine transparente, agile Methodik, die Sie bei jedem Schritt auf dem Laufenden hält",
+  "step1": {
+    "title": "Entdeckung & Planung",
+    "duration": "1-2 Wochen",
+    "description": "Ihre Bedürfnisse verstehen und die richtige Strategie entwerfen",
+    "activities": {
+      "1": "Anforderungserhebung",
+      "2": "Technische Machbarkeit",
+      "3": "Projekt-Roadmap"
+    }
+  },
+  "step2": {
+    "title": "Design & Prototyping",
+    "duration": "2-4 Wochen",
+    "description": "Visuelle Designs und erste Prototypen erstellen",
+    "activities": {
+      "1": "Wireframes",
+      "2": "Design-Mockups",
+      "3": "Interaktiver Prototyp"
+    }
+  },
+  "step3": {
+    "title": "Entwicklungssprints",
+    "duration": "Agil",
+    "description": "Designs in ein echtes, funktionales Produkt verwandeln",
+    "activities": {
+      "1": "2-Wochen-Sprints",
+      "2": "Regelmäßige Demos",
+      "3": "Kontinuierliches Testen"
+    }
+  },
+  "step4": {
+    "title": "Testen & QS",
+    "duration": "Laufend",
+    "description": "Qualität und einwandfreie Leistung vor der Veröffentlichung sicherstellen",
+    "activities": {
+      "1": "Automatisierte Tests",
+      "2": "Manuelles QS",
+      "3": "Leistungstests"
+    }
+  },
+  "step5": {
+    "title": "Bereitstellung & Support",
+    "duration": "Kontinuierlich",
+    "description": "Kontinuierlicher Support und regelmäßige Updates",
+    "activities": {
+      "1": "Stufenweise Einführung",
+      "2": "Überwachung",
+      "3": "Laufende Wartung"
+    }
+  }
+}

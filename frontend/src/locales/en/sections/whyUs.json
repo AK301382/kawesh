@@ -1,0 +1,40 @@
+{
+  "title": "Why Kawesh?",
+  "subtitle": "Your Trusted Partner for Digital Success in Afghanistan",
+  "expertise": {
+    "title": "Professional Expertise",
+    "description": "A team of experienced specialists in the latest technologies"
+  },
+  "quality": {
+    "title": "Superior Quality",
+    "description": "We are committed to the highest quality standards in every project"
+  },
+  "support": {
+    "title": "24/7 Support",
+    "description": "Our support team is always ready to help you"
+  },
+  "affordable": {
+    "title": "Affordable Pricing",
+    "description": "Quality services with competitive and fair prices"
+  },
+  "localExpertise": {
+    "title": "Local Expertise",
+    "description": "Deep understanding of the Afghan market and Herat business needs"
+  },
+  "modernTech": {
+    "title": "Modern Technology",
+    "description": "Using the latest tools and frameworks from around the world"
+  },
+  "agile": {
+    "title": "Agile & Fast",
+    "description": "Agile approach for fast and efficient project delivery"
+  },
+  "scalable": {
+    "title": "Scalable",
+    "description": "Solutions that grow with your business"
+  },
+  "innovative": {
+    "title": "Innovative & Creative",
+    "description": "Innovative ideas to solve complex business challenges"
+  }
+}

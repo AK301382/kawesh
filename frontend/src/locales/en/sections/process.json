@@ -1,0 +1,57 @@
+{
+  "title": "Our Work Process",
+  "subtitle": "From Idea to Implementation - Step by Step",
+  "ourProcess": "Our Process",
+  "howWeWork": "How We Work",
+  "description": "A transparent, agile methodology that keeps you informed every step of the way",
+  "step1": {
+    "title": "Discovery & Planning",
+    "duration": "1-2 weeks",
+    "description": "Understanding your needs and designing the right strategy",
+    "activities": {
+      "1": "Requirements gathering",
+      "2": "Technical feasibility",
+      "3": "Project roadmap"
+    }
+  },
+  "step2": {
+    "title": "Design & Prototyping",
+    "duration": "2-4 weeks",
+    "description": "Creating visual designs and initial prototypes",
+    "activities": {
+      "1": "Wireframes",
+      "2": "Design mockups",
+      "3": "Interactive prototype"
+    }
+  },
+  "step3": {
+    "title": "Development Sprints",
+    "duration": "Agile",
+    "description": "Transforming designs into a real, functional product",
+    "activities": {
+      "1": "2-week sprints",
+      "2": "Regular demos",
+      "3": "Continuous testing"
+    }
+  },
+  "step4": {
+    "title": "Testing & QA",
+    "duration": "Ongoing",
+    "description": "Ensuring quality and flawless performance before release",
+    "activities": {
+      "1": "Automated testing",
+      "2": "Manual QA",
+      "3": "Performance testing"
+    }
+  },
+  "step5": {
+    "title": "Deployment & Support",
+    "duration": "Continuous",
+    "description": "Continuous support and regular updates",
+    "activities": {
+      "1": "Staged rollout",
+      "2": "Monitoring",
+      "3": "Ongoing maintenance"
+    }
+  }
+}

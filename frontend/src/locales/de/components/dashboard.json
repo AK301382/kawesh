@@ -1,0 +1,15 @@
+{
+  "welcome": "Willkommen",
+  "overview": "Übersicht",
+  "projects": "Meine Projekte",
+  "orders": "Bestellungen",
+  "invoices": "Rechnungen",
+  "support": "Support",
+  "settings": "Einstellungen",
+  "stats": {
+    "activeProjects": "Aktive Projekte",
+    "completedProjects": "Abgeschlossene Projekte",
+    "totalSpent": "Gesamt Ausgegeben",
+    "supportTickets": "Support-Tickets"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Kundenbewertungen",
+  "subtitle": "Was Unsere Kunden Über Kawesh Sagen",
+  "description": "Verlassen Sie sich nicht nur auf unser Wort. Hören Sie von den Unternehmen, denen wir geholfen haben",
+  "viewAll": "Alle Bewertungen Ansehen",
+  "shareExperience": "Teilen Sie Ihre Erfahrung",
+  "addReview": "Bewertung Hinzufügen",
+  "form": {
+    "title": "Teilen Sie Ihre Erfahrung",
+    "name": "Ihr Name",
+    "role": "Ihre Rolle",
+    "company": "Unternehmen",
+    "rating": "Bewertung",
+    "review": "Ihre Bewertung",
+    "submit": "Bewertung Absenden",
+    "cancel": "Abbrechen",
+    "namePlaceholder": "Max Mustermann",
+    "rolePlaceholder": "CEO, CTO, Produktmanager, etc.",
+    "companyPlaceholder": "Ihr Firmenname",
+    "reviewPlaceholder": "Erzählen Sie uns von Ihrer Erfahrung mit uns...",
+    "success": "Ihre Bewertung wurde erfolgreich eingereicht!",
+    "thankYou": "Vielen Dank, dass Sie Ihre Erfahrung mit uns geteilt haben"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "auth": {
+    "invalid_credentials": "Ungültiger Benutzername oder Passwort",
+    "invalid_token": "Ungültiges Token",
+    "token_expired": "Token ist abgelaufen",
+    "unauthorized": "Nicht autorisierter Zugriff",
+    "forbidden": "Zugriff verboten",
+    "could_not_validate": "Anmeldeinformationen konnten nicht validiert werden",
+    "customer_not_found": "Kunde nicht gefunden",
+    "account_not_found": "Konto nicht gefunden",
+    "account_deactivated": "Konto ist deaktiviert",
+    "customer_deactivated": "Kundenkonto ist deaktiviert",
+    "email_already_exists": "E-Mail bereits registriert",
+    "account_email_already_exists": "Ein Konto mit dieser E-Mail existiert bereits für diesen Kunden",
+    "invitation_invalid": "Ungültiges Einladungstoken",
+    "invitation_expired": "Einladung bereits akzeptiert oder abgelaufen",
+    "account_not_active": "Konto ist nicht aktiv",
+    "invitation_not_accepted": "Bitte akzeptieren Sie zuerst Ihre Einladung",
+    "permission_denied": "Sie haben keine Berechtigung, diese Aktion auszuführen",
+    "cannot_change_owner_role": "Eigentümerrolle kann nicht geändert werden",
+    "cannot_change_owner_permissions": "Eigentümerberechtigungen können nicht geändert werden",
+    "cannot_deactivate_owner": "Eigentümerkonto kann nicht deaktiviert werden",
+    "cannot_delete_owner": "Eigentümerkonto kann nicht gelöscht werden",
+    "only_owner_can_delete": "Nur der Eigentümer kann Konten löschen",
+    "no_permission_change_roles": "Sie haben keine Berechtigung, Rollen zu ändern",
+    "no_permission_change_permissions": "Sie haben keine Berechtigung, Berechtigungen zu ändern",
+    "no_permission_deactivate": "Sie haben keine Berechtigung, Konten zu deaktivieren",
+    "current_password_incorrect": "Aktuelles Passwort ist falsch",
+    "invalid_verification_token": "Ungültiges Verifizierungstoken",
+    "access_denied_to_account": "Zugriff auf dieses Konto verweigert"
+  },
+  "database": {
+    "connection_failed": "Datenbankverbindung fehlgeschlagen",
+    "operation_failed": "Datenbankoperation fehlgeschlagen",
+    "not_found": "Datensatz nicht gefunden"
+  },
+  "validation": {
+    "required_field": "Feld {field} ist erforderlich",
+    "invalid_email": "Ungültige E-Mail-Adresse",
+    "invalid_phone": "Ungültige Telefonnummer",
+    "invalid_format": "Ungültiges Format für {field}",
+    "min_length": "{field} muss mindestens {min} Zeichen lang sein",
+    "max_length": "{field} darf nicht mehr als {max} Zeichen haben",
+    "already_exists": "Dieser Eintrag existiert bereits"
+  },
+  "portfolio": {
+    "not_found": "Portfolio-Element '{slug}' nicht gefunden",
+    "item_not_found": "Portfolio-Element nicht gefunden",
+    "failed_to_fetch": "Portfolio-Elemente konnten nicht abgerufen werden"
+  },
+  "services": {
+    "inquiry_failed": "Anfrage konnte nicht gesendet werden",
+    "booking_failed": "Beratung konnte nicht gebucht werden",
+    "service_not_found": "Service nicht gefunden",
+    "inquiry_not_found": "Serviceanfrage nicht gefunden",
+    "consultation_not_found": "Beratungsbuchung nicht gefunden"
+  },
+  "contact": {
+    "submission_failed": "Kontaktformular konnte nicht gesendet werden",
+    "not_found": "Kontaktübermittlung nicht gefunden"
+  },
+  "server": {
+    "internal_error": "Interner Serverfehler",
+    "service_unavailable": "Service nicht verfügbar",
+    "bad_request": "Ungültige Anfrage"
+  }
+}

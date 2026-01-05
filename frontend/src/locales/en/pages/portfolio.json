@@ -1,0 +1,61 @@
+{
+  "title": "Our Portfolio",
+  "subtitle": "Successful Projects Delivered",
+  "description": "Examples of successful projects we've delivered for clients in Herat and throughout Afghanistan",
+  "viewProject": "View Project",
+  "allProjects": "All Projects",
+  "hero": {
+    "badge": "Our Portfolio",
+    "title1": "Where Vision Meets",
+    "title2": "Exceptional Execution",
+    "description": "Discover how we've transformed businesses across industries with innovative digital solutions. Each project represents our commitment to excellence, creativity, and measurable results that drive real business growth.",
+    "highlights": {
+      "awardWinning": "Award-Winning Work",
+      "provenResults": "Proven Results",
+      "clientSuccess": "Client Success Stories"
+    },
+    "startProject": "Start Your Project"
+  },
+  "stats": {
+    "projectsDelivered": "Projects Delivered",
+    "happyClients": "Happy Clients",
+    "successRate": "Success Rate",
+    "workSamples": "Work Samples"
+  },
+  "intro": {
+    "title": "Real Projects. Real Results. Real Impact.",
+    "description": "Our portfolio showcases diverse projects across web development, mobile applications, digital marketing campaigns, brand identities, video production, and technical infrastructure. Each work sample demonstrates our expertise in delivering beautiful, functional, and results-driven solutions. From startups to enterprises, we've helped businesses achieve their digital goals with innovative strategies and flawless execution. Explore our work organized by service category and see how we can bring your vision to life."
+  },
+  "filter": {
+    "all": "All",
+    "web": "Website",
+    "mobile": "Mobile",
+    "design": "Design",
+    "ecommerce": "E-commerce"
+  },
+  "noProjects": "No projects found in this category.",
+  "keyResults": "Key Results:",
+  "duration": "Duration:",
+  "viewCaseStudy": "View Case Study",
+  "trustIndicators": {
+    "trustedBy": "Trusted by industry leaders worldwide",
+    "projectsCount": "200+ Projects",
+    "successRate": "98% Success Rate",
+    "awardWinning": "Award-Winning"
+  },
+  "cta": {
+    "title": "Ready to Start Your Success Story?",
+    "description": "Join 150+ satisfied clients who chose Kawesh for their digital transformation. Let's create something extraordinary together.",
+    "viewDetails": "View Project Details",
+    "contactUs": "Contact Us Today",
+    "successRate": "98% Success Rate",
+    "awardWinning": "Award-Winning"
+  },
+  "seo": {
+    "title": "Our Portfolio - Featured Projects & Case Studies | Kawesh",
+    "description": "Explore Kawesh's portfolio of successful digital projects. From web development to mobile apps, digital marketing, branding, video production, and hosting solutions.",
+    "keywords": "portfolio, case studies, web development projects, mobile app projects, digital marketing campaigns, branding work, video production, success stories",
+    "ogTitle": "Our Portfolio - Featured Projects & Case Studies | Kawesh",
+    "ogDescription": "Explore our portfolio of successful digital projects across web, mobile, marketing, design, and more."
+  }
+}

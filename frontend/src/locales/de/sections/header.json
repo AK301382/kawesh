@@ -1,0 +1,15 @@
+{
+  "home": "Startseite",
+  "services": "Dienstleistungen",
+  "buildSite": "Website Erstellen",
+  "portfolio": "Portfolio",
+  "about": "Über Uns",
+  "contact": "Kontakt",
+  "login": "Anmelden",
+  "register": "Registrieren",
+  "switchToDark": "Dunkler Modus",
+  "switchToLight": "Heller Modus",
+  "logout": "Abmelden",
+  "dashboard": "Dashboard",
+  "myAccount": "Mein Konto"
+}
