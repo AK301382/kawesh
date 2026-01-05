@@ -1,4 +1,5 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 import { Card, CardContent } from '../../../components/ui/card';
 import { Star, Quote } from 'lucide-react';
 
