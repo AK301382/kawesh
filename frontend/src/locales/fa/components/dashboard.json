@@ -1,0 +1,15 @@
+{
+  "welcome": "خوش آمدید",
+  "overview": "خلاصه",
+  "projects": "پروژه های من",
+  "orders": "سفارشات",
+  "invoices": "فاکتورها",
+  "support": "پشتیبانی",
+  "settings": "تنظیمات",
+  "stats": {
+    "activeProjects": "پروژه های فعال",
+    "completedProjects": "پروژه های تکمیل شده",
+    "totalSpent": "مجموع هزینه",
+    "supportTickets": "تیکت های پشتیبانی"
+  }
+}

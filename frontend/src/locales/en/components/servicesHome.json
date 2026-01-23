@@ -1,0 +1,68 @@
+{
+  "sectionTitle": "Our Services",
+  "sectionHeading": "Comprehensive Software Solutions",
+  "sectionDescription": "From concept to deployment, we deliver end-to-end software development services tailored to your business needs.",
+  "services": {
+    "webDesign": {
+      "title": "Web Design & Development",
+      "description": "Professional, responsive websites built with cutting-edge technologies and best practices.",
+      "features": [
+        "Custom Websites",
+        "E-commerce",
+        "CMS",
+        "PWAs"
+      ]
+    },
+    "mobileApp": {
+      "title": "Mobile App Development",
+      "description": "Native and cross-platform mobile applications with superior UI/UX and performance.",
+      "features": [
+        "iOS Apps",
+        "Android Apps",
+        "Cross-Platform",
+        "App Store"
+      ]
+    },
+    "digitalMarketing": {
+      "title": "Digital Marketing",
+      "description": "Comprehensive digital marketing strategies, SEO, social media, and content marketing.",
+      "features": [
+        "SEO",
+        "Social Media",
+        "PPC",
+        "Analytics"
+      ]
+    },
+    "graphicDesign": {
+      "title": "Graphic Design & Branding",
+      "description": "Complete brand identity, logo design, motion graphics, and all your visual needs.",
+      "features": [
+        "Logo Design",
+        "Branding",
+        "Motion Graphics",
+        "Print Design"
+      ]
+    },
+    "videoProduction": {
+      "title": "Video Production",
+      "description": "Professional video content: commercials, corporate videos, and promotional content.",
+      "features": [
+        "Commercials",
+        "Corporate Videos",
+        "Explainer Videos",
+        "Animation"
+      ]
+    },
+    "hostingSupport": {
+      "title": "Hosting & Support",
+      "description": "Enterprise-grade hosting with 99.9% uptime and 24/7 technical support.",
+      "features": [
+        "Cloud Hosting",
+        "SSL",
+        "Backups",
+        "24/7 Support"
+      ]
+    }
+  },
+  "learnMore": "Learn More"
+}

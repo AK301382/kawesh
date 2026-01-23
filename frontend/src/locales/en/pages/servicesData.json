@@ -1,0 +1,108 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "slug": "web-design-development",
+      "title": "Web Design & Development",
+      "headline": "Transform Your Vision Into a Powerful Digital Presence",
+      "shortDesc": "Your website is often the first impression potential customers have of your business. We specialize in creating websites that don't just look beautiful, but work beautifully too.",
+      "introduction": "In today's digital-first world, having a stunning, high-performing website isn't just an advantage—it's essential. At Kawesh, we specialize in creating websites that don't just look beautiful, but work beautifully too.",
+      "detailedDescription": "We build websites that combine aesthetic excellence with powerful functionality. Our team leverages cutting-edge technologies like React, Next.js, and Node.js to create lightning-fast, secure, and scalable web solutions. Whether you need a sleek corporate website, a robust e-commerce platform, or a complex web application, we have the expertise to bring your vision to life.\n\nEvery website we create is mobile-first, ensuring perfect performance across all devices—from smartphones to desktops. We implement advanced SEO strategies from the ground up, helping you rank higher in search results and attract more organic traffic. Our responsive designs adapt seamlessly to any screen size, providing an exceptional user experience that converts visitors into customers.\n\nSecurity is paramount in everything we build. We implement enterprise-grade security measures including SSL encryption, firewall protection, and regular security audits to keep your data and your customers' information safe. Our websites are also optimized for speed, typically loading in under 2 seconds—a critical factor for user engagement and search engine rankings.",
+      "features": [
+        "Custom Website Design",
+        "Responsive Development",
+        "E-commerce Solutions",
+        "Content Management Systems",
+        "Progressive Web Apps",
+        "Website Maintenance",
+        "SEO Optimization",
+        "Performance Optimization"
+      ]
+    },
+    {
+      "id": "2",
+      "slug": "mobile-app-development",
+      "title": "Mobile App Development",
+      "headline": "Reach Your Customers Anywhere, Anytime—On the Devices They Love",
+      "shortDesc": "Mobile apps have become an essential channel for business growth, customer engagement, and brand loyalty. We create mobile experiences that users love and businesses profit from.",
+      "introduction": "With over 6 billion smartphone users worldwide, your next big opportunity is in the palm of your customers' hands. At Kawesh, we create mobile experiences that users love and businesses profit from.",
+      "detailedDescription": "We develop high-performance mobile applications for iOS and Android that combine intuitive design with powerful functionality. Whether you need a native app for maximum performance or a cross-platform solution for broader reach, our experienced developers have the expertise to deliver exceptional results.\n\nOur mobile apps are designed with the user at the center. We follow platform-specific design guidelines while infusing your unique brand personality, creating interfaces that feel natural and effortless to use. From seamless onboarding flows to engaging interactions, every element is carefully crafted to maximize user satisfaction and retention.\n\nWe build apps that work offline, send targeted push notifications, integrate with device features (camera, GPS, biometrics), and provide secure data storage. Whether it's a consumer app, enterprise solution, or internal business tool, we ensure your app delivers real value to users while achieving your business objectives.",
+      "features": [
+        "iOS App Development",
+        "Android App Development",
+        "Cross-Platform Apps",
+        "Progressive Web Apps",
+        "App Store Optimization",
+        "App Maintenance & Updates"
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "digital-marketing",
+      "title": "Digital Marketing",
+      "headline": "Get Found, Get Noticed, Get Results—Strategic Digital Marketing That Drives Growth",
+      "shortDesc": "Building a great product or service is only half the battle. We create comprehensive marketing strategies that deliver measurable ROI and sustainable growth.",
+      "introduction": "The real challenge is getting your product in front of the right people at the right time. That's where Kawesh's digital marketing expertise comes in. We don't just run campaigns; we create comprehensive marketing strategies that deliver measurable ROI and sustainable growth.",
+      "detailedDescription": "In the crowded digital landscape, standing out requires more than just being online—it requires strategic visibility. Our digital marketing services encompass everything from SEO and content marketing to social media management and paid advertising. We use data-driven insights and proven strategies to ensure your brand not only gets noticed but remembered.\n\nOur SEO services help you dominate search engine results. We conduct comprehensive keyword research, optimize your website structure and content, build high-quality backlinks, and continuously monitor rankings to keep you ahead of competitors. The result? More organic traffic, higher quality leads, and increased revenue—without ongoing ad spend.\n\nSocial media is where conversations happen and brands are built. Our social media marketing strategies create engaging content that resonates with your audience, builds community, and drives action. From Instagram and Facebook to LinkedIn and Twitter, we manage your presence across all relevant platforms with consistent, compelling messaging.\n\nContent marketing is at the heart of modern digital strategy. We create valuable, relevant content—blogs, videos, infographics, whitepapers—that attracts, engages, and converts your target audience. Combined with email marketing campaigns that nurture leads and maintain customer relationships, we create a complete funnel that guides prospects from awareness to conversion.",
+      "features": [
+        "Search Engine Optimization",
+        "Social Media Marketing",
+        "Content Marketing",
+        "Pay-Per-Click Advertising",
+        "Email Marketing",
+        "Analytics & Reporting"
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "graphic-design-branding",
+      "title": "Graphic Design & Branding",
+      "headline": "Your Brand is Your Story—Let Us Help You Tell It Beautifully",
+      "shortDesc": "Standing out requires more than just a logo. It requires a compelling brand identity that communicates who you are, what you stand for, and why people should choose you.",
+      "introduction": "In a world where consumers are bombarded with thousands of brand messages daily, standing out requires more than just a logo. It requires a compelling brand identity that communicates who you are, what you stand for, and why people should choose you. At Kawesh, we create visual identities that don't just look good—they connect, resonate, and inspire action.",
+      "detailedDescription": "Your brand is the sum of every visual touchpoint your audience encounters. From your logo and color palette to your website, packaging, and social media presence, every element should tell a cohesive story. Our branding and graphic design services create this consistency while infusing creativity that makes your brand unforgettable.\n\nWe start with deep brand discovery—understanding your values, mission, target audience, and competitive landscape. This foundation informs every creative decision we make. Whether you're a startup needing a complete brand identity or an established business seeking a refresh, we create visual systems that are both timeless and contemporary.\n\nOur logo designs are more than pretty symbols—they're strategic assets that communicate your brand's essence at a glance. We develop multiple concepts, refine based on your feedback, and deliver a final logo that works across all applications, from business cards to billboards. Accompanying your logo, we create comprehensive brand guidelines that ensure consistency as your brand grows.\n\nBeyond the logo, we design all the visual assets your business needs: business cards, letterheads, brochures, packaging, social media graphics, presentations, advertisements, signage, and more. We also create motion graphics and animated content for digital channels, bringing your brand to life in engaging ways.",
+      "features": [
+        "Logo Design",
+        "Brand Identity",
+        "Brand Guidelines",
+        "Marketing Collateral",
+        "Packaging Design",
+        "Social Media Graphics"
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "video-production",
+      "title": "Video Production",
+      "headline": "Capture Attention, Inspire Action—Professional Video Content That Converts",
+      "shortDesc": "Video is the most engaging content format. We produce video content that doesn't just get views—it drives results.",
+      "introduction": "Video is the most engaging content format, period. Studies show that video content generates 1200% more shares than text and images combined, and landing pages with video see 80% higher conversion rates. Whether you're explaining a complex product, building emotional connection with your audience, or showcasing your brand story, video is the most powerful medium available. At Kawesh, we produce video content that doesn't just get views—it drives results.",
+      "detailedDescription": "From concept to final cut, our video production services cover every aspect of creating professional video content. We produce commercials that sell, corporate videos that communicate, explainer videos that educate, and social media content that engages. Every frame is crafted with intention, every second designed to hold attention and drive action.\n\nOur production capabilities include 4K filming with professional cinema cameras, professional lighting and sound equipment, drone footage for stunning aerial perspectives, and full post-production services including editing, color grading, sound design, and motion graphics. Whether you need a 15-second social media clip or a 10-minute corporate documentary, we have the expertise and equipment to deliver broadcast-quality results.\n\nWe understand that different platforms require different approaches. A YouTube video has different requirements than an Instagram Story or a television commercial. We optimize content for each platform while maintaining your brand consistency. From aspect ratios to length to messaging, we ensure your video performs optimally wherever it appears.\n\nThe process begins with creative development—working with you to define the message, audience, and objectives. We create scripts, storyboards, and shot lists that bring your vision to life. During production, our experienced crew captures everything needed with professionalism and efficiency. In post-production, our editors and motion graphics artists transform raw footage into polished, compelling content.",
+      "features": [
+        "Commercial Production",
+        "Corporate Videos",
+        "Explainer Videos",
+        "Social Media Content",
+        "Motion Graphics",
+        "Video Editing"
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "hosting-technical-support",
+      "title": "Hosting & Technical Support",
+      "headline": "Focus on Your Business—We'll Keep Your Digital Infrastructure Running Flawlessly",
+      "shortDesc": "Your website and digital assets are your 24/7 sales team. We provide enterprise-grade hosting and technical support that ensures your digital presence is always available, always fast, and always secure.",
+      "introduction": "Your website and digital assets are your 24/7 sales team, customer service representatives, and brand ambassadors. When they go down, you're losing money and credibility. At Kawesh, we provide enterprise-grade hosting and technical support that ensures your digital presence is always available, always fast, and always secure. We handle the technical complexities so you can focus on growing your business.",
+      "detailedDescription": "Hosting isn't just about storage space—it's about performance, security, reliability, and support. Our hosting services are built on enterprise-grade cloud infrastructure (AWS, Google Cloud, DigitalOcean) that guarantees 99.9% uptime. This means your site is accessible to customers around the clock, every day of the year.\n\nSpeed is critical for user experience and SEO. Our hosting includes global Content Delivery Networks (CDN) that serve your content from servers closest to each visitor, dramatically reducing loading times worldwide. We also implement advanced caching strategies, image optimization, and server-side optimizations that make your website lightning-fast.\n\nSecurity is non-negotiable. Every hosting plan includes free SSL certificates (the padlock icon in browsers), DDoS protection, firewall configuration, malware scanning, and intrusion detection. We perform automatic daily backups with 30-day retention, so you can restore your site instantly if anything goes wrong. Our security team monitors threats 24/7 and applies security patches immediately.\n\nTechnical support shouldn't require a computer science degree to understand. Our support team speaks human, not jargon. Whether you need help with email setup, DNS configuration, SSL installation, or troubleshooting an error, our engineers are available 24/7 via phone, email, and live chat. Average response time? Under 5 minutes.",
+      "features": [
+        "Cloud Hosting",
+        "SSL Certificates",
+        "Daily Backups",
+        "24/7 Monitoring",
+        "DDoS Protection",
+        "Technical Support"
+      ]
+    }
+  ]
+}

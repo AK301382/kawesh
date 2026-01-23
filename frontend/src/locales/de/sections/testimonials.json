@@ -1,0 +1,152 @@
+{
+  "title": "Kundenbewertungen",
+  "subtitle": "Was Unsere Kunden Über Kawesh Sagen",
+  "description": "Verlassen Sie sich nicht nur auf unser Wort. Hören Sie von den Unternehmen, denen wir geholfen haben",
+  "viewAll": "Alle Bewertungen Ansehen",
+  "shareExperience": "Teilen Sie Ihre Erfahrung",
+  "addReview": "Bewertung Hinzufügen",
+  "items": {
+    "1": {
+      "quote": "Kawesh hat unser Legacy-System in eine moderne, skalierbare Plattform verwandelt. Ihre technische Expertise und transparente Kommunikation machten den gesamten Prozess reibungslos.",
+      "author": "Sarah Johnson",
+      "role": "CTO",
+      "company": "TechBank Solutions",
+      "projectType": "Individuelle Softwareentwicklung"
+    },
+    "2": {
+      "quote": "Die Zusammenarbeit mit Kawesh fühlte sich an wie ein internes Team. Sie verstanden unsere Anforderungen im Gesundheitswesen und lieferten eine sichere, benutzerfreundliche Lösung.",
+      "author": "Dr. Michael Chen",
+      "role": "VP Technologie",
+      "company": "MediCare Group",
+      "projectType": "Gesundheitsportal"
+    },
+    "3": {
+      "quote": "Das engagierte Team von Kawesh skalierte unsere Plattform für Millionen von Benutzern. Ihre DevOps-Expertise war genau das, was wir brauchten.",
+      "author": "Alex Rodriguez",
+      "role": "Leiter Engineering",
+      "company": "EduTech Innovations",
+      "projectType": "Cloud-Infrastruktur"
+    },
+    "4": {
+      "quote": "Die mobile App, die Kawesh für uns entwickelt hat, übertraf alle Erwartungen. Sie ist schnell, schön und unsere Benutzer lieben sie. Wir haben eine 300%ige Steigerung des Engagements gesehen.",
+      "author": "Jennifer Martinez",
+      "role": "Produktmanagerin",
+      "company": "RetailTech Inc",
+      "projectType": "Mobile App Entwicklung"
+    },
+    "5": {
+      "quote": "Ihre KI-Integrations-Expertise half uns, unseren Kundenservice zu automatisieren und die Reaktionszeiten um 80% zu reduzieren. Das Team war professionell und lieferte pünktlich.",
+      "author": "Robert Kim",
+      "role": "CEO",
+      "company": "AutoServe Solutions",
+      "projectType": "KI-Integration"
+    },
+    "6": {
+      "quote": "Kawesh migrierte unsere gesamte Infrastruktur nahtlos in die Cloud. Keine Ausfallzeiten und erhebliche Kosteneinsparungen. Empfehle ihr DevOps-Team sehr.",
+      "author": "Linda Brown",
+      "role": "IT-Direktorin",
+      "company": "Global Finance Corp",
+      "projectType": "Cloud-Migration"
+    },
+    "7": {
+      "quote": "Die E-Commerce-Plattform, die sie entwickelt haben, bewältigt unseren Spitzenverkehr einwandfrei. Der Umsatz stieg im ersten Quartal um 150%. Hervorragende Arbeit!",
+      "author": "James Wilson",
+      "role": "Gründer",
+      "company": "ShopNow Online",
+      "projectType": "E-Commerce-Plattform"
+    },
+    "8": {
+      "quote": "Die Zusammenarbeit mit Kawesh war ein Game-Changer für unser Startup. Sie verstanden unsere Vision und lieferten ein MVP, das uns half, Series-A-Finanzierung zu sichern.",
+      "author": "Emily Davis",
+      "role": "Mitgründerin",
+      "company": "StartupHub",
+      "projectType": "MVP-Entwicklung"
+    },
+    "9": {
+      "quote": "Ihre Blockchain-Implementierung für unsere Lieferkette war einwandfrei. Die Verbesserungen in Transparenz und Sicherheit sind bemerkenswert.",
+      "author": "Mohammed Ahmed",
+      "role": "Supply Chain Manager",
+      "company": "LogisticsPro",
+      "projectType": "Blockchain-Integration"
+    },
+    "10": {
+      "quote": "Das CRM-System, das Kawesh für uns entwickelt hat, hat verändert, wie wir Kundenbeziehungen verwalten. Die Produktivität stieg um 200%.",
+      "author": "Patricia Garcia",
+      "role": "Vertriebsleiterin",
+      "company": "SalesForce Plus",
+      "projectType": "CRM-Entwicklung"
+    },
+    "11": {
+      "quote": "Außergewöhnliche Arbeit an unserem Echtzeit-Analyse-Dashboard. Die Erkenntnisse, die wir jetzt haben, haben unsere Geschäftsstrategie komplett verändert.",
+      "author": "David Thompson",
+      "role": "Datenanalyst",
+      "company": "Analytics360",
+      "projectType": "Datenanalyse"
+    },
+    "12": {
+      "quote": "Das UI/UX-Redesign unserer Plattform durch Kawesh führte zu einer 60%igen Reduzierung der Benutzerabbrüche. Ihr Design-Thinking-Ansatz ist Weltklasse.",
+      "author": "Sophia Lee",
+      "role": "Design Lead",
+      "company": "UserFirst Design",
+      "projectType": "UI/UX-Design"
+    },
+    "13": {
+      "quote": "Die von ihnen durchgeführte API-Integration verband alle unsere unterschiedlichen Systeme. Jetzt funktioniert alles nahtlos zusammen. Brillante technische Ausführung.",
+      "author": "Thomas Anderson",
+      "role": "Tech Lead",
+      "company": "SystemSync Inc",
+      "projectType": "API-Integration"
+    },
+    "14": {
+      "quote": "Ihr Sicherheitsaudit und die Implementierung haben uns vor potenziellen Sicherheitsverletzungen bewahrt. Die Expertise des Teams in Cybersicherheit ist beeindruckend.",
+      "author": "Maria Rodriguez",
+      "role": "CISO",
+      "company": "SecureBank",
+      "projectType": "Sicherheitsaudit"
+    },
+    "15": {
+      "quote": "Kawesh optimierte unsere Datenbankabfragen und reduzierte die Seitenladezeiten von 8 Sekunden auf unter 1 Sekunde. Leistungszauberer!",
+      "author": "Kevin Zhang",
+      "role": "Backend-Ingenieur",
+      "company": "FastLoad Systems",
+      "projectType": "Leistungsoptimierung"
+    },
+    "16": {
+      "quote": "Die progressive Web-App, die sie entwickelt haben, funktioniert perfekt offline. Unsere Außendienstmitarbeiter können jetzt überall auf kritische Daten zugreifen. Revolutionär!",
+      "author": "Amanda White",
+      "role": "Betriebsleiterin",
+      "company": "FieldForce Solutions",
+      "projectType": "Progressive Web App"
+    },
+    "17": {
+      "quote": "Ihre Microservices-Architektur ermöglichte es uns, unabhängig zu skalieren. Wir können jetzt Updates bereitstellen, ohne das gesamte System zu beeinträchtigen.",
+      "author": "Christopher Lee",
+      "role": "Lösungsarchitekt",
+      "company": "ScaleUp Technologies",
+      "projectType": "Microservices-Architektur"
+    },
+    "18": {
+      "quote": "Kaweshs Team-Erweiterungsdienst stellte uns qualifizierte Entwickler genau dann zur Verfügung, als wir sie brauchten. Sie integrierten sich nahtlos in unser Team.",
+      "author": "Rachel Green",
+      "role": "Personalleiterin",
+      "company": "TechStaff Global",
+      "projectType": "Team-Erweiterung"
+    }
+  },
+  "form": {
+    "title": "Teilen Sie Ihre Erfahrung",
+    "name": "Ihr Name",
+    "role": "Ihre Rolle",
+    "company": "Unternehmen",
+    "rating": "Bewertung",
+    "review": "Ihre Bewertung",
+    "submit": "Bewertung Absenden",
+    "cancel": "Abbrechen",
+    "namePlaceholder": "Max Mustermann",
+    "rolePlaceholder": "CEO, CTO, Produktmanager, etc.",
+    "companyPlaceholder": "Ihr Firmenname",
+    "reviewPlaceholder": "Erzählen Sie uns von Ihrer Erfahrung mit uns...",
+    "success": "Ihre Bewertung wurde erfolgreich eingereicht!",
+    "thankYou": "Vielen Dank, dass Sie Ihre Erfahrung mit uns geteilt haben"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "description": "Kawesh - Anbieter von Webdesign, App-Entwicklung und digitalen Lösungen in Herat, Afghanistan",
+  "quickLinks": "Schnelllinks",
+  "services": "Unsere Dienstleistungen",
+  "company": "Unternehmen",
+  "resources": "Ressourcen",
+  "followUs": "Folgen Sie uns",
+  "aboutUs": "Über uns",
+  "ourTeam": "Unser Team",
+  "careers": "Karriere",
+  "customDevelopment": "Individuelle Entwicklung",
+  "productDesign": "Produktdesign",
+  "cloudDevOps": "Cloud & DevOps",
+  "consulting": "Beratung",
+  "caseStudies": "Fallstudien",
+  "newsletter": {
+    "title": "Newsletter",
+    "description": "Abonnieren Sie, um die neuesten Nachrichten und Sonderangebote zu erhalten",
+    "placeholder": "Geben Sie Ihre E-Mail ein",
+    "subscribe": "Abonnieren",
+    "success": "Erfolgreich abonniert",
+    "error": "Abonnementfehler"
+  },
+  "rights": "Alle Rechte vorbehalten.",
+  "privacyPolicy": "Datenschutzrichtlinie",
+  "termsOfService": "Nutzungsbedingungen",
+  "cookiePolicy": "Cookie-Richtlinie",
+  "sitemap": "Sitemap"
+}

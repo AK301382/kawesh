@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "badge": "Get In Touch",
+    "title1": "Let's Build Something",
+    "title2": "Amazing Together",
+    "description": "Have a project in mind? We'd love to hear about it. Get in touch and let's make it happen."
+  },
+  "title": "Contact Us",
+  "subtitle": "We're Ready to Work with You",
+  "description": "For free consultation, quote, or any questions, get in touch with us",
+  "form": {
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "subject": "Subject",
+    "message": "Your Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Your message was sent successfully",
+    "error": "Error sending message. Please try again",
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address"
+  },
+  "info": {
+    "address": "Herat, Afghanistan",
+    "phone": "+93 xxx xxx xxxx",
+    "email": "info@kawesh.af",
+    "hours": "Saturday - Thursday: 8 AM - 6 PM"
+  },
+  "social": {
+    "title": "Follow Us",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter"
+  },
+  "seo": {
+    "title": "Contact Us | Kawesh - Web Design Company in Herat",
+    "description": "Contact Kawesh in Herat for free consultation on website design, app development, or other digital services. Professional support and quick response",
+    "keywords": "contact kawesh, web design consultation, website design company herat, software development afghanistan"
+  }
+}

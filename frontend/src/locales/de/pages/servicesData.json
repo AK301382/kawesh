@@ -1,0 +1,108 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "slug": "web-design-development",
+      "title": "Webdesign & Entwicklung",
+      "headline": "Verwandeln Sie Ihre Vision in eine Leistungsstarke Digitale Präsenz",
+      "shortDesc": "Ihre Website ist oft der erste Eindruck, den potenzielle Kunden von Ihrem Unternehmen haben. Wir spezialisieren uns auf die Erstellung von Websites, die nicht nur schön aussehen, sondern auch schön funktionieren.",
+      "introduction": "In der heutigen digital-first Welt ist eine beeindruckende, leistungsstarke Website nicht nur ein Vorteil – sie ist unverzichtbar. Bei Kawesh spezialisieren wir uns auf die Erstellung von Websites, die nicht nur schön aussehen, sondern auch schön funktionieren.",
+      "detailedDescription": "Wir bauen Websites, die ästhetische Exzellenz mit leistungsstarker Funktionalität verbinden. Unser Team nutzt modernste Technologien wie React, Next.js und Node.js, um blitzschnelle, sichere und skalierbare Weblösungen zu erstellen. Ob Sie eine elegante Unternehmenswebsite, eine robuste E-Commerce-Plattform oder eine komplexe Webanwendung benötigen, wir haben das Know-how, um Ihre Vision zum Leben zu erwecken.\n\nJede Website, die wir erstellen, ist mobile-first und gewährleistet perfekte Leistung auf allen Geräten – von Smartphones bis Desktops. Wir implementieren fortschrittliche SEO-Strategien von Grund auf und helfen Ihnen, in Suchergebnissen höher zu ranken und mehr organischen Traffic anzuziehen. Unsere responsiven Designs passen sich nahtlos jeder Bildschirmgröße an und bieten ein außergewöhnliches Benutzererlebnis, das Besucher in Kunden verwandelt.\n\nSicherheit ist in allem, was wir bauen, von größter Bedeutung. Wir implementieren Sicherheitsmaßnahmen auf Unternehmensebene, einschließlich SSL-Verschlüsselung, Firewall-Schutz und regelmäßigen Sicherheitsaudits, um Ihre Daten und die Informationen Ihrer Kunden zu schützen. Unsere Websites sind auch für Geschwindigkeit optimiert und laden normalerweise in unter 2 Sekunden – ein kritischer Faktor für Benutzerengagement und Suchmaschinen-Rankings.",
+      "features": [
+        "Benutzerdefiniertes Webdesign",
+        "Responsive Entwicklung",
+        "E-Commerce-Lösungen",
+        "Content-Management-Systeme",
+        "Progressive Web Apps",
+        "Website-Wartung",
+        "SEO-Optimierung",
+        "Leistungsoptimierung"
+      ]
+    },
+    {
+      "id": "2",
+      "slug": "mobile-app-development",
+      "title": "Mobile App Entwicklung",
+      "headline": "Erreichen Sie Ihre Kunden Überall, Jederzeit – Auf den Geräten, die Sie Lieben",
+      "shortDesc": "Mobile Apps sind zu einem unverzichtbaren Kanal für Geschäftswachstum, Kundenbindung und Markentreue geworden. Wir schaffen mobile Erlebnisse, die Benutzer lieben und von denen Unternehmen profitieren.",
+      "introduction": "Mit über 6 Milliarden Smartphone-Nutzern weltweit liegt Ihre nächste große Chance in der Handfläche Ihrer Kunden. Bei Kawesh schaffen wir mobile Erlebnisse, die Benutzer lieben und von denen Unternehmen profitieren.",
+      "detailedDescription": "Wir entwickeln leistungsstarke mobile Anwendungen für iOS und Android, die intuitives Design mit leistungsstarker Funktionalität kombinieren. Ob Sie eine native App für maximale Leistung oder eine plattformübergreifende Lösung für breitere Reichweite benötigen, unsere erfahrenen Entwickler haben das Know-how, um außergewöhnliche Ergebnisse zu liefern.\n\nUnsere mobilen Apps sind mit dem Benutzer im Zentrum gestaltet. Wir folgen plattformspezifischen Designrichtlinien und infundieren gleichzeitig Ihre einzigartige Markenpersönlichkeit, um Schnittstellen zu schaffen, die sich natürlich und mühelos anfühlen. Von nahtlosen Onboarding-Flows bis hin zu ansprechenden Interaktionen ist jedes Element sorgfältig gestaltet, um Benutzerzufriedenheit und -bindung zu maximieren.\n\nWir bauen Apps, die offline funktionieren, gezielte Push-Benachrichtigungen senden, sich mit Gerätefunktionen (Kamera, GPS, Biometrie) integrieren und sichere Datenspeicherung bieten. Ob es sich um eine Verbraucher-App, eine Unternehmenslösung oder ein internes Geschäftstool handelt, wir stellen sicher, dass Ihre App den Benutzern echten Wert bietet und gleichzeitig Ihre Geschäftsziele erreicht.",
+      "features": [
+        "iOS App Entwicklung",
+        "Android App Entwicklung",
+        "Plattformübergreifende Apps",
+        "Progressive Web Apps",
+        "App Store Optimierung",
+        "App-Wartung & Updates"
+      ]
+    },
+    {
+      "id": "3",
+      "slug": "digital-marketing",
+      "title": "Digitales Marketing",
+      "headline": "Gefunden Werden, Bemerkt Werden, Ergebnisse Erzielen – Strategisches Digitales Marketing, das Wachstum Antreibt",
+      "shortDesc": "Ein großartiges Produkt oder eine Dienstleistung zu bauen ist nur die halbe Schlacht. Wir erstellen umfassende Marketingstrategien, die messbaren ROI und nachhaltiges Wachstum liefern.",
+      "introduction": "Die eigentliche Herausforderung besteht darin, Ihr Produkt zur richtigen Zeit vor die richtigen Leute zu bringen. Hier kommt Kaweshs Digital Marketing Expertise ins Spiel. Wir führen nicht nur Kampagnen durch; wir erstellen umfassende Marketingstrategien, die messbaren ROI und nachhaltiges Wachstum liefern.",
+      "detailedDescription": "In der überfüllten digitalen Landschaft erfordert Herausstechen mehr als nur online zu sein – es erfordert strategische Sichtbarkeit. Unsere digitalen Marketingdienste umfassen alles von SEO und Content-Marketing bis hin zu Social-Media-Management und bezahlter Werbung. Wir nutzen datengesteuerte Erkenntnisse und bewährte Strategien, um sicherzustellen, dass Ihre Marke nicht nur bemerkt, sondern auch erinnert wird.\n\nUnsere SEO-Dienste helfen Ihnen, Suchmaschinenergebnisse zu dominieren. Wir führen umfassende Keyword-Recherchen durch, optimieren Ihre Website-Struktur und Inhalte, bauen hochwertige Backlinks auf und überwachen kontinuierlich Rankings, um Sie der Konkurrenz voraus zu halten. Das Ergebnis? Mehr organischer Traffic, höhere Qualität der Leads und erhöhter Umsatz – ohne laufende Werbeausgaben.\n\nSocial Media ist der Ort, wo Gespräche stattfinden und Marken aufgebaut werden. Unsere Social-Media-Marketingstrategien schaffen ansprechende Inhalte, die bei Ihrem Publikum Anklang finden, Community aufbauen und Aktionen anstoßen. Von Instagram und Facebook bis LinkedIn und Twitter verwalten wir Ihre Präsenz auf allen relevanten Plattformen mit konsistenter, überzeugender Botschaft.\n\nContent-Marketing steht im Herzen moderner digitaler Strategie. Wir erstellen wertvolle, relevante Inhalte – Blogs, Videos, Infografiken, Whitepapers – die Ihr Zielpublikum anziehen, einbinden und konvertieren. In Kombination mit E-Mail-Marketingkampagnen, die Leads pflegen und Kundenbeziehungen aufrechterhalten, schaffen wir einen vollständigen Trichter, der Interessenten von Bewusstsein zur Konversion führt.",
+      "features": [
+        "Suchmaschinenoptimierung",
+        "Social Media Marketing",
+        "Content Marketing",
+        "Pay-Per-Click Werbung",
+        "E-Mail Marketing",
+        "Analytik & Reporting"
+      ]
+    },
+    {
+      "id": "4",
+      "slug": "graphic-design-branding",
+      "title": "Grafikdesign & Branding",
+      "headline": "Ihre Marke ist Ihre Geschichte – Lassen Sie Uns Helfen, Sie Schön Zu Erzählen",
+      "shortDesc": "Herausstechen erfordert mehr als nur ein Logo. Es erfordert eine überzeugende Markenidentität, die kommuniziert, wer Sie sind, wofür Sie stehen und warum Menschen Sie wählen sollten.",
+      "introduction": "In einer Welt, in der Verbraucher täglich mit Tausenden von Markenbotschaften bombardiert werden, erfordert Herausstechen mehr als nur ein Logo. Es erfordert eine überzeugende Markenidentität, die kommuniziert, wer Sie sind, wofür Sie stehen und warum Menschen Sie wählen sollten. Bei Kawesh schaffen wir visuelle Identitäten, die nicht nur gut aussehen – sie verbinden, resonieren und inspirieren zum Handeln.",
+      "detailedDescription": "Ihre Marke ist die Summe jedes visuellen Berührungspunkts, auf den Ihr Publikum trifft. Von Ihrem Logo und Ihrer Farbpalette bis zu Ihrer Website, Verpackung und Social-Media-Präsenz sollte jedes Element eine kohärente Geschichte erzählen. Unsere Branding- und Grafikdesign-Dienste schaffen diese Konsistenz, während sie Kreativität einflößen, die Ihre Marke unvergesslich macht.\n\nWir beginnen mit tiefer Markenentdeckung – Verständnis Ihrer Werte, Mission, Zielgruppe und Wettbewerbslandschaft. Diese Grundlage informiert jede kreative Entscheidung, die wir treffen. Ob Sie ein Startup sind, das eine vollständige Markenidentität benötigt, oder ein etabliertes Unternehmen, das eine Auffrischung sucht, wir schaffen visuelle Systeme, die sowohl zeitlos als auch zeitgenössisch sind.\n\nUnsere Logo-Designs sind mehr als hübsche Symbole – sie sind strategische Assets, die die Essenz Ihrer Marke auf einen Blick kommunizieren. Wir entwickeln mehrere Konzepte, verfeinern basierend auf Ihrem Feedback und liefern ein finales Logo, das über alle Anwendungen funktioniert, von Visitenkarten bis zu Werbetafeln. Begleitend zu Ihrem Logo erstellen wir umfassende Markenrichtlinien, die Konsistenz sicherstellen, während Ihre Marke wächst.\n\nJenseits des Logos entwerfen wir alle visuellen Assets, die Ihr Unternehmen benötigt: Visitenkarten, Briefköpfe, Broschüren, Verpackungen, Social-Media-Grafiken, Präsentationen, Werbeanzeigen, Beschilderungen und mehr. Wir erstellen auch Motion Graphics und animierte Inhalte für digitale Kanäle und erwecken Ihre Marke auf ansprechende Weise zum Leben.",
+      "features": [
+        "Logodesign",
+        "Markenidentität",
+        "Markenrichtlinien",
+        "Marketing-Materialien",
+        "Verpackungsdesign",
+        "Social Media Grafiken"
+      ]
+    },
+    {
+      "id": "5",
+      "slug": "video-production",
+      "title": "Videoproduktion",
+      "headline": "Aufmerksamkeit Erregen, Zum Handeln Inspirieren – Professioneller Videoinhalt, der Konvertiert",
+      "shortDesc": "Video ist das ansprechendste Content-Format. Wir produzieren Videoinhalte, die nicht nur Views erhalten – sondern Ergebnisse erzielen.",
+      "introduction": "Video ist das ansprechendste Content-Format, Punkt. Studien zeigen, dass Videoinhalte 1200% mehr Shares generieren als Text und Bilder zusammen, und Landing Pages mit Video sehen 80% höhere Konversionsraten. Ob Sie ein komplexes Produkt erklären, emotionale Verbindung zu Ihrem Publikum aufbauen oder Ihre Markengeschichte präsentieren – Video ist das leistungsstärkste verfügbare Medium. Bei Kawesh produzieren wir Videoinhalte, die nicht nur Views erhalten – sondern Ergebnisse erzielen.",
+      "detailedDescription": "Vom Konzept bis zum finalen Schnitt decken unsere Videoproduktionsdienste jeden Aspekt der Erstellung professioneller Videoinhalte ab. Wir produzieren Werbespots, die verkaufen, Unternehmensvideos, die kommunizieren, Erklärvideos, die ausbilden, und Social-Media-Inhalte, die einbinden. Jeder Frame wird mit Absicht gestaltet, jede Sekunde ist darauf ausgelegt, Aufmerksamkeit zu halten und zum Handeln anzuregen.\n\nUnsere Produktionskapazitäten umfassen 4K-Aufnahmen mit professionellen Kinokameras, professionelle Beleuchtungs- und Tonausrüstung, Drohnenaufnahmen für atemberaubende Luftperspektiven und vollständige Postproduktionsdienste einschließlich Schnitt, Farbkorrektur, Sounddesign und Motion Graphics. Ob Sie einen 15-Sekunden-Social-Media-Clip oder eine 10-minütige Unternehmensdokumentation benötigen, wir haben das Know-how und die Ausrüstung, um Ergebnisse in Sendequalität zu liefern.\n\nWir verstehen, dass verschiedene Plattformen unterschiedliche Ansätze erfordern. Ein YouTube-Video hat andere Anforderungen als eine Instagram Story oder ein Fernsehwerbespot. Wir optimieren Inhalte für jede Plattform und wahren gleichzeitig Ihre Markenkonsistenz. Von Seitenverhältnissen über Länge bis hin zur Botschaft stellen wir sicher, dass Ihr Video optimal funktioniert, wo immer es erscheint.\n\nDer Prozess beginnt mit kreativer Entwicklung – Zusammenarbeit mit Ihnen, um die Botschaft, das Publikum und die Ziele zu definieren. Wir erstellen Drehbücher, Storyboards und Shotlists, die Ihre Vision zum Leben erwecken. Während der Produktion erfasst unser erfahrenes Team alles Erforderliche mit Professionalität und Effizienz. In der Postproduktion verwandeln unsere Editoren und Motion-Graphics-Künstler Rohmaterial in geschliffene, überzeugende Inhalte.",
+      "features": [
+        "Werbespotproduktion",
+        "Unternehmensvideos",
+        "Erklärvideos",
+        "Social Media Content",
+        "Motion Graphics",
+        "Videobearbeitung"
+      ]
+    },
+    {
+      "id": "6",
+      "slug": "hosting-technical-support",
+      "title": "Hosting & Technischer Support",
+      "headline": "Konzentrieren Sie Sich auf Ihr Geschäft – Wir Halten Ihre Digitale Infrastruktur Fehlerfrei Am Laufen",
+      "shortDesc": "Ihre Website und digitale Assets sind Ihr 24/7-Verkaufsteam. Wir bieten Hosting auf Unternehmensebene und technischen Support, der sicherstellt, dass Ihre digitale Präsenz immer verfügbar, immer schnell und immer sicher ist.",
+      "introduction": "Ihre Website und digitale Assets sind Ihr 24/7-Verkaufsteam, Kundenservice-Vertreter und Markenbotschafter. Wenn sie ausfallen, verlieren Sie Geld und Glaubwürdigkeit. Bei Kawesh bieten wir Hosting auf Unternehmensebene und technischen Support, der sicherstellt, dass Ihre digitale Präsenz immer verfügbar, immer schnell und immer sicher ist. Wir kümmern uns um die technischen Komplexitäten, damit Sie sich auf das Wachstum Ihres Geschäfts konzentrieren können.",
+      "detailedDescription": "Hosting ist nicht nur Speicherplatz – es geht um Leistung, Sicherheit, Zuverlässigkeit und Support. Unsere Hosting-Dienste basieren auf Cloud-Infrastruktur auf Unternehmensebene (AWS, Google Cloud, DigitalOcean), die 99,9% Verfügbarkeit garantiert. Das bedeutet, dass Ihre Website rund um die Uhr für Kunden zugänglich ist, jeden Tag des Jahres.\n\nGeschwindigkeit ist entscheidend für Benutzererfahrung und SEO. Unser Hosting umfasst globale Content Delivery Networks (CDN), die Ihre Inhalte von Servern liefern, die jedem Besucher am nächsten sind, und Ladezeiten weltweit drastisch reduzieren. Wir implementieren auch fortschrittliche Caching-Strategien, Bildoptimierung und serverseitige Optimierungen, die Ihre Website blitzschnell machen.\n\nSicherheit ist nicht verhandelbar. Jeder Hosting-Plan enthält kostenlose SSL-Zertifikate (das Vorhängeschloss-Symbol in Browsern), DDoS-Schutz, Firewall-Konfiguration, Malware-Scanning und Intrusion Detection. Wir führen automatische tägliche Backups mit 30-tägiger Aufbewahrung durch, sodass Sie Ihre Website sofort wiederherstellen können, wenn etwas schief geht. Unser Sicherheitsteam überwacht Bedrohungen 24/7 und wendet Sicherheitspatches sofort an.\n\nTechnischer Support sollte keinen Informatik-Abschluss zum Verstehen erfordern. Unser Support-Team spricht menschlich, kein Jargon. Ob Sie Hilfe mit E-Mail-Setup, DNS-Konfiguration, SSL-Installation oder Fehlersuche benötigen, unsere Ingenieure sind 24/7 per Telefon, E-Mail und Live-Chat verfügbar. Durchschnittliche Antwortzeit? Unter 5 Minuten.",
+      "features": [
+        "Cloud-Hosting",
+        "SSL-Zertifikate",
+        "Tägliche Backups",
+        "24/7 Überwachung",
+        "DDoS-Schutz",
+        "Technischer Support"
+      ]
+    }
+  ]
+}

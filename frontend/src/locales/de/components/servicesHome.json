@@ -1,0 +1,68 @@
+{
+  "sectionTitle": "Unsere Dienstleistungen",
+  "sectionHeading": "Umfassende Softwarelösungen",
+  "sectionDescription": "Von der Konzeption bis zur Bereitstellung liefern wir End-to-End-Softwareentwicklungsdienste, die auf Ihre Geschäftsanforderungen zugeschnitten sind.",
+  "services": {
+    "webDesign": {
+      "title": "Webdesign & Entwicklung",
+      "description": "Professionelle, responsive Websites, die mit modernsten Technologien und Best Practices erstellt wurden.",
+      "features": [
+        "Benutzerdefinierte Websites",
+        "E-Commerce",
+        "CMS",
+        "PWAs"
+      ]
+    },
+    "mobileApp": {
+      "title": "Mobile App Entwicklung",
+      "description": "Native und plattformübergreifende mobile Anwendungen mit überlegener UI/UX und Leistung.",
+      "features": [
+        "iOS Apps",
+        "Android Apps",
+        "Plattformübergreifend",
+        "App Store"
+      ]
+    },
+    "digitalMarketing": {
+      "title": "Digitales Marketing",
+      "description": "Umfassende digitale Marketingstrategien, SEO, soziale Medien und Content-Marketing.",
+      "features": [
+        "SEO",
+        "Soziale Medien",
+        "PPC",
+        "Analytik"
+      ]
+    },
+    "graphicDesign": {
+      "title": "Grafikdesign & Branding",
+      "description": "Vollständige Markenidentität, Logodesign, Motion Graphics und alle Ihre visuellen Bedürfnisse.",
+      "features": [
+        "Logodesign",
+        "Branding",
+        "Motion Graphics",
+        "Druckdesign"
+      ]
+    },
+    "videoProduction": {
+      "title": "Videoproduktion",
+      "description": "Professionelle Videoinhalte: Werbespots, Unternehmensvideos und Werbeinhalte.",
+      "features": [
+        "Werbespots",
+        "Unternehmensvideos",
+        "Erklärvideos",
+        "Animation"
+      ]
+    },
+    "hostingSupport": {
+      "title": "Hosting & Support",
+      "description": "Enterprise-Grade-Hosting mit 99,9% Verfügbarkeit und 24/7 technischem Support.",
+      "features": [
+        "Cloud-Hosting",
+        "SSL",
+        "Backups",
+        "24/7 Support"
+      ]
+    }
+  },
+  "learnMore": "Mehr erfahren"
+}

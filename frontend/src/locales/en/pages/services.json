@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "badge": "Our Services",
+    "title1": "Transform Your Vision Into",
+    "title2": "Digital Excellence",
+    "description": "At Kawesh, we don't just build software—we craft digital experiences that drive real business results. With a perfect blend of strategic thinking, creative design, and technical excellence, we've helped over 150 businesses transform their digital presence and achieve measurable growth.",
+    "consultation": "Get Free Consultation",
+    "viewPortfolio": "View Our Portfolio",
+    "yearsExcellence": "Years Excellence",
+    "projectsDelivered": "Projects Delivered",
+    "clientSatisfaction": "Client Satisfaction"
+  },
+  "stats": {
+    "projects": "Successful Projects",
+    "clients": "Happy Clients",
+    "satisfaction": "Client Satisfaction",
+    "support": "Support Available"
+  },
+  "whyUs": {
+    "title": "Why Choose Kawesh?",
+    "description": "We're not just another agency. We're your strategic partner in digital transformation, committed to your success every step of the way.",
+    "strategicPlanning": {
+      "title": "Strategic Planning",
+      "description": "Every project starts with deep research and strategic planning aligned with your business goals"
+    },
+    "fastDelivery": {
+      "title": "Lightning-Fast Delivery",
+      "description": "Agile methodology ensures rapid development without compromising on quality"
+    },
+    "security": {
+      "title": "Enterprise Security",
+      "description": "Bank-level security measures to protect your data and your customers"
+    },
+    "multilingual": {
+      "title": "Multilingual Support",
+      "description": "Build for global audiences with comprehensive internationalization"
+    },
+    "scalable": {
+      "title": "Scalable Solutions",
+      "description": "Architecture designed to grow seamlessly with your business"
+    },
+    "dedicatedTeam": {
+      "title": "Dedicated Team",
+      "description": "Your success is our priority with ongoing support and maintenance"
+    }
+  },
+  "services": {
+    "title": "Our Comprehensive Services",
+    "description": "End-to-end digital solutions tailored to your unique business needs. From concept to deployment and beyond, we've got you covered.",
+    "whatsIncluded": "What's Included:",
+    "exploreService": "Explore Service"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Quick answers to common questions about our services",
+    "question1": {
+      "q": "How long does a typical project take?",
+      "a": "Project timelines vary based on complexity. A basic website takes 4-6 weeks, while complex applications may take 3-6 months. We provide detailed timelines during our initial consultation."
+    },
+    "question2": {
+      "q": "How do you approach project scoping?",
+      "a": "We begin with a detailed consultation to understand your specific needs and goals. Every project receives a custom proposal tailored to your requirements, timeline, and objectives."
+    },
+    "question3": {
+      "q": "Do you provide ongoing support and maintenance?",
+      "a": "Absolutely! We offer comprehensive maintenance packages including updates, security patches, performance optimization, and 24/7 technical support to keep your digital assets running smoothly."
+    },
+    "question4": {
+      "q": "Can you work with our existing technology stack?",
+      "a": "Yes! Our team is experienced with a wide range of technologies. Whether you need integration with existing systems or a complete rebuild, we adapt to your technical requirements."
+    },
+    "stillHaveQuestions": "Still have questions? We're here to help!",
+    "contactTeam": "Contact Our Team"
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business?",
+    "description": "Let's turn your vision into reality. Book a free consultation today and discover how Kawesh can help you achieve your digital goals.",
+    "freeConsultation": "Free Consultation",
+    "noObligation": "No Obligation Quote",
+    "support247": "24/7 Support",
+    "scheduleConsultation": "Schedule Free Consultation",
+    "explorePortfolio": "Explore Our Portfolio",
+    "trustedBy": "Trusted by leading businesses worldwide",
+    "fortune500": "Fortune 500 Companies",
+    "startups": "Startups & SMBs",
+    "enterprises": "Global Enterprises"
+  },
+  "metaSeo": {
+    "title": "Our Services - Professional Digital Solutions | Kawesh",
+    "description": "Explore Kawesh's comprehensive digital services: Web Development, Mobile Apps, Cloud Solutions, UI/UX Design, Digital Marketing, and DevOps. Transform your business with our expert team.",
+    "keywords": "web development services, mobile app development, cloud solutions, UI/UX design, digital marketing, DevOps services, software development agency"
+  }
+}

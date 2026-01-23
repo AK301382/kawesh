@@ -1,0 +1,34 @@
+{
+  "success": {
+    "operation_completed": "Operation completed successfully",
+    "data_saved": "Data saved successfully",
+    "data_updated": "Data updated successfully",
+    "data_deleted": "Data deleted successfully",
+    "email_sent": "Email sent successfully",
+    "login_success": "Login successful",
+    "logout_success": "Logout successful"
+  },
+  "contact": {
+    "form_submitted": "Contact form submitted successfully",
+    "will_contact_soon": "We will contact you soon"
+  },
+  "services": {
+    "inquiry_submitted": "Your inquiry has been submitted successfully",
+    "consultation_booked": "Your consultation has been booked successfully"
+  },
+  "portfolio": {
+    "item_created": "Portfolio item created successfully",
+    "item_updated": "Portfolio item updated successfully",
+    "item_deleted": "Portfolio item deleted successfully"
+  },
+  "admin": {
+    "status_updated": "Status updated successfully",
+    "record_deleted": "Record deleted successfully"
+  },
+  "customer": {
+    "password_changed": "Password changed successfully",
+    "email_verified": "Email verified successfully",
+    "profile_updated": "Profile updated successfully",
+    "registration_success": "Registration completed successfully"
+  }
+}

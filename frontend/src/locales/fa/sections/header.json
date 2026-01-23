@@ -1,0 +1,15 @@
+{
+  "home": "خانه",
+  "services": "خدمات",
+  "buildSite": "ساخت سایت",
+  "portfolio": "نمونه کارها",
+  "about": "درباره ما",
+  "contact": "تماس با ما",
+  "login": "ورود",
+  "register": "ثبت نام",
+  "switchToDark": "تم تاریک",
+  "switchToLight": "تم روشن",
+  "logout": "خروج",
+  "dashboard": "داشبورد",
+  "myAccount": "حساب کاربری"
+}

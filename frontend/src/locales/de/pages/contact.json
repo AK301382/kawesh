@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "badge": "Kontakt Aufnehmen",
+    "title1": "Lassen Sie Uns Etwas",
+    "title2": "Erstaunliches Zusammen Bauen",
+    "description": "Haben Sie ein Projekt im Kopf? Wir würden gerne davon hören. Nehmen Sie Kontakt auf und lassen Sie es uns verwirklichen."
+  },
+  "title": "Kontaktieren Sie Uns",
+  "subtitle": "Wir Sind Bereit, Mit Ihnen Zu Arbeiten",
+  "description": "Für kostenlose Beratung, Angebot oder Fragen, kontaktieren Sie uns",
+  "form": {
+    "name": "Vollständiger Name",
+    "email": "E-Mail",
+    "phone": "Telefonnummer",
+    "subject": "Betreff",
+    "message": "Ihre Nachricht",
+    "send": "Nachricht Senden",
+    "sending": "Wird Gesendet...",
+    "success": "Ihre Nachricht wurde erfolgreich gesendet",
+    "error": "Fehler beim Senden der Nachricht. Bitte versuchen Sie es erneut",
+    "required": "Dieses Feld ist erforderlich",
+    "invalidEmail": "Ungültige E-Mail-Adresse"
+  },
+  "info": {
+    "address": "Herat, Afghanistan",
+    "phone": "+93 xxx xxx xxxx",
+    "email": "info@kawesh.af",
+    "hours": "Samstag - Donnerstag: 8 - 18 Uhr"
+  },
+  "social": {
+    "title": "Folgen Sie Uns",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter"
+  },
+  "seo": {
+    "title": "Kontaktieren Sie Uns | Kawesh - Webdesign-Firma in Herat",
+    "description": "Kontaktieren Sie Kawesh in Herat für kostenlose Beratung zu Webdesign, App-Entwicklung oder anderen digitalen Dienstleistungen. Professioneller Support und schnelle Antwort",
+    "keywords": "kawesh kontaktieren, webdesign beratung, webdesign firma herat, softwareentwicklung afghanistan"
+  }
+}

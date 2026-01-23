@@ -1,0 +1,67 @@
+{
+  "auth": {
+    "invalid_credentials": "Invalid username or password",
+    "invalid_token": "Invalid token",
+    "token_expired": "Token has expired",
+    "unauthorized": "Unauthorized access",
+    "forbidden": "Access forbidden",
+    "could_not_validate": "Could not validate credentials",
+    "customer_not_found": "Customer not found",
+    "account_not_found": "Account not found",
+    "account_deactivated": "Account is deactivated",
+    "customer_deactivated": "Customer account is deactivated",
+    "email_already_exists": "Email already registered",
+    "account_email_already_exists": "Account with this email already exists for this customer",
+    "invitation_invalid": "Invalid invitation token",
+    "invitation_expired": "Invitation already accepted or expired",
+    "account_not_active": "Account is not active",
+    "invitation_not_accepted": "Please accept your invitation first",
+    "permission_denied": "You don't have permission to perform this action",
+    "cannot_change_owner_role": "Cannot change owner role",
+    "cannot_change_owner_permissions": "Cannot change owner permissions",
+    "cannot_deactivate_owner": "Cannot deactivate owner account",
+    "cannot_delete_owner": "Cannot delete owner account",
+    "only_owner_can_delete": "Only owner can delete accounts",
+    "no_permission_change_roles": "You don't have permission to change roles",
+    "no_permission_change_permissions": "You don't have permission to change permissions",
+    "no_permission_deactivate": "You don't have permission to deactivate accounts",
+    "current_password_incorrect": "Current password is incorrect",
+    "invalid_verification_token": "Invalid verification token",
+    "access_denied_to_account": "Access denied to this account"
+  },
+  "database": {
+    "connection_failed": "Database connection failed",
+    "operation_failed": "Database operation failed",
+    "not_found": "Record not found"
+  },
+  "validation": {
+    "required_field": "Field {field} is required",
+    "invalid_email": "Invalid email address",
+    "invalid_phone": "Invalid phone number",
+    "invalid_format": "Invalid format for {field}",
+    "min_length": "{field} must be at least {min} characters",
+    "max_length": "{field} must not exceed {max} characters",
+    "already_exists": "This item already exists"
+  },
+  "portfolio": {
+    "not_found": "Portfolio item '{slug}' not found",
+    "item_not_found": "Portfolio item not found",
+    "failed_to_fetch": "Failed to fetch portfolio items"
+  },
+  "services": {
+    "inquiry_failed": "Failed to submit inquiry",
+    "booking_failed": "Failed to book consultation",
+    "service_not_found": "Service not found",
+    "inquiry_not_found": "Service inquiry not found",
+    "consultation_not_found": "Consultation booking not found"
+  },
+  "contact": {
+    "submission_failed": "Failed to submit contact form",
+    "not_found": "Contact submission not found"
+  },
+  "server": {
+    "internal_error": "Internal server error",
+    "service_unavailable": "Service unavailable",
+    "bad_request": "Bad request"
+  }
+}

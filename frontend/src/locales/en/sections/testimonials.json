@@ -1,0 +1,152 @@
+{
+  "title": "Client Testimonials",
+  "subtitle": "What Our Clients Say About Kawesh",
+  "description": "Don't just take our word for it. Hear from the companies we've helped transform",
+  "viewAll": "View All Testimonials",
+  "shareExperience": "Share Your Experience",
+  "addReview": "Add Review",
+  "items": {
+    "1": {
+      "quote": "Kawesh transformed our legacy system into a modern, scalable platform. Their technical expertise and transparent communication made the entire process smooth.",
+      "author": "Sarah Johnson",
+      "role": "CTO",
+      "company": "TechBank Solutions",
+      "projectType": "Custom Software Development"
+    },
+    "2": {
+      "quote": "Working with Kawesh felt like having an in-house team. They understood our healthcare compliance requirements and delivered a secure, user-friendly solution.",
+      "author": "Dr. Michael Chen",
+      "role": "VP of Technology",
+      "company": "MediCare Group",
+      "projectType": "Healthcare Portal"
+    },
+    "3": {
+      "quote": "The dedicated team from Kawesh scaled our platform to handle millions of users. Their DevOps expertise was exactly what we needed.",
+      "author": "Alex Rodriguez",
+      "role": "Head of Engineering",
+      "company": "EduTech Innovations",
+      "projectType": "Cloud Infrastructure"
+    },
+    "4": {
+      "quote": "The mobile app Kawesh built for us exceeded all expectations. It's fast, beautiful, and our users love it. We've seen a 300% increase in engagement.",
+      "author": "Jennifer Martinez",
+      "role": "Product Manager",
+      "company": "RetailTech Inc",
+      "projectType": "Mobile App Development"
+    },
+    "5": {
+      "quote": "Their AI integration expertise helped us automate our customer service, reducing response times by 80%. The team was professional and delivered on time.",
+      "author": "Robert Kim",
+      "role": "CEO",
+      "company": "AutoServe Solutions",
+      "projectType": "AI Integration"
+    },
+    "6": {
+      "quote": "Kawesh migrated our entire infrastructure to the cloud seamlessly. Zero downtime and significant cost savings. Highly recommend their DevOps team.",
+      "author": "Linda Brown",
+      "role": "IT Director",
+      "company": "Global Finance Corp",
+      "projectType": "Cloud Migration"
+    },
+    "7": {
+      "quote": "The e-commerce platform they developed handles our peak traffic flawlessly. Sales increased by 150% in the first quarter. Outstanding work!",
+      "author": "James Wilson",
+      "role": "Founder",
+      "company": "ShopNow Online",
+      "projectType": "E-commerce Platform"
+    },
+    "8": {
+      "quote": "Working with Kawesh was a game-changer for our startup. They understood our vision and delivered a MVP that helped us secure Series A funding.",
+      "author": "Emily Davis",
+      "role": "Co-Founder",
+      "company": "StartupHub",
+      "projectType": "MVP Development"
+    },
+    "9": {
+      "quote": "Their blockchain implementation for our supply chain was flawless. The transparency and security improvements have been remarkable.",
+      "author": "Mohammed Ahmed",
+      "role": "Supply Chain Manager",
+      "company": "LogisticsPro",
+      "projectType": "Blockchain Integration"
+    },
+    "10": {
+      "quote": "The CRM system Kawesh built for us has transformed how we manage customer relationships. Productivity increased by 200%.",
+      "author": "Patricia Garcia",
+      "role": "Sales Director",
+      "company": "SalesForce Plus",
+      "projectType": "CRM Development"
+    },
+    "11": {
+      "quote": "Exceptional work on our real-time analytics dashboard. The insights we now have have completely changed our business strategy.",
+      "author": "David Thompson",
+      "role": "Data Analyst",
+      "company": "Analytics360",
+      "projectType": "Data Analytics"
+    },
+    "12": {
+      "quote": "Kawesh's UI/UX redesign of our platform resulted in a 60% reduction in user drop-off. Their design thinking approach is world-class.",
+      "author": "Sophia Lee",
+      "role": "Design Lead",
+      "company": "UserFirst Design",
+      "projectType": "UI/UX Design"
+    },
+    "13": {
+      "quote": "The API integration they performed connected all our disparate systems. Now everything works together seamlessly. Brilliant technical execution.",
+      "author": "Thomas Anderson",
+      "role": "Tech Lead",
+      "company": "SystemSync Inc",
+      "projectType": "API Integration"
+    },
+    "14": {
+      "quote": "Their security audit and implementation saved us from potential breaches. The team's expertise in cybersecurity is impressive.",
+      "author": "Maria Rodriguez",
+      "role": "CISO",
+      "company": "SecureBank",
+      "projectType": "Security Audit"
+    },
+    "15": {
+      "quote": "Kawesh optimized our database queries and reduced page load times from 8 seconds to under 1 second. Performance wizards!",
+      "author": "Kevin Zhang",
+      "role": "Backend Engineer",
+      "company": "FastLoad Systems",
+      "projectType": "Performance Optimization"
+    },
+    "16": {
+      "quote": "The progressive web app they developed works perfectly offline. Our field workers can now access critical data anywhere. Revolutionary!",
+      "author": "Amanda White",
+      "role": "Operations Manager",
+      "company": "FieldForce Solutions",
+      "projectType": "Progressive Web App"
+    },
+    "17": {
+      "quote": "Their microservices architecture allowed us to scale independently. We can now deploy updates without affecting the entire system.",
+      "author": "Christopher Lee",
+      "role": "Solution Architect",
+      "company": "ScaleUp Technologies",
+      "projectType": "Microservices Architecture"
+    },
+    "18": {
+      "quote": "Kawesh's team augmentation service provided us with skilled developers exactly when we needed them. They integrated seamlessly with our team.",
+      "author": "Rachel Green",
+      "role": "HR Director",
+      "company": "TechStaff Global",
+      "projectType": "Team Augmentation"
+    }
+  },
+  "form": {
+    "title": "Share Your Experience",
+    "name": "Your Name",
+    "role": "Your Role",
+    "company": "Company",
+    "rating": "Rating",
+    "review": "Your Review",
+    "submit": "Submit Review",
+    "cancel": "Cancel",
+    "namePlaceholder": "John Doe",
+    "rolePlaceholder": "CEO, CTO, Product Manager, etc.",
+    "companyPlaceholder": "Your Company Name",
+    "reviewPlaceholder": "Tell us about your experience working with us...",
+    "success": "Your review has been submitted successfully!",
+    "thankYou": "Thank you for sharing your experience with us"
+  }
+}

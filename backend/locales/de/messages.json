@@ -1,0 +1,34 @@
+{
+  "success": {
+    "operation_completed": "Vorgang erfolgreich abgeschlossen",
+    "data_saved": "Daten erfolgreich gespeichert",
+    "data_updated": "Daten erfolgreich aktualisiert",
+    "data_deleted": "Daten erfolgreich gelöscht",
+    "email_sent": "E-Mail erfolgreich gesendet",
+    "login_success": "Anmeldung erfolgreich",
+    "logout_success": "Abmeldung erfolgreich"
+  },
+  "contact": {
+    "form_submitted": "Kontaktformular erfolgreich übermittelt",
+    "will_contact_soon": "Wir werden uns bald bei Ihnen melden"
+  },
+  "services": {
+    "inquiry_submitted": "Ihre Anfrage wurde erfolgreich übermittelt",
+    "consultation_booked": "Ihre Beratung wurde erfolgreich gebucht"
+  },
+  "portfolio": {
+    "item_created": "Portfolio-Element erfolgreich erstellt",
+    "item_updated": "Portfolio-Element erfolgreich aktualisiert",
+    "item_deleted": "Portfolio-Element erfolgreich gelöscht"
+  },
+  "admin": {
+    "status_updated": "Status erfolgreich aktualisiert",
+    "record_deleted": "Datensatz erfolgreich gelöscht"
+  },
+  "customer": {
+    "password_changed": "Passwort erfolgreich geändert",
+    "email_verified": "E-Mail erfolgreich verifiziert",
+    "profile_updated": "Profil erfolgreich aktualisiert",
+    "registration_success": "Registrierung erfolgreich abgeschlossen"
+  }
+}

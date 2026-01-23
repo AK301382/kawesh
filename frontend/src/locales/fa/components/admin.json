@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "title": "پنل مدیریت",
+    "subtitle": "برای دسترسی به داشبورد وارد شوید",
+    "username": "نام کاربری",
+    "password": "رمز عبور",
+    "usernamePlaceholder": "نام کاربری خود را وارد کنید",
+    "passwordPlaceholder": "رمز عبور خود را وارد کنید",
+    "loginButton": "ورود",
+    "loggingIn": "در حال ورود..."
+  }
+}

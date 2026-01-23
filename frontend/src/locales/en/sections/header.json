@@ -1,0 +1,15 @@
+{
+  "home": "Home",
+  "services": "Services",
+  "buildSite": "Build Your Site",
+  "portfolio": "Portfolio",
+  "about": "About Us",
+  "contact": "Contact",
+  "login": "Login",
+  "register": "Register",
+  "switchToDark": "Dark Mode",
+  "switchToLight": "Light Mode",
+  "logout": "Logout",
+  "dashboard": "Dashboard",
+  "myAccount": "My Account"
+}

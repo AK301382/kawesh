@@ -1,0 +1,61 @@
+{
+  "title": "Unser Portfolio",
+  "subtitle": "Erfolgreich Abgeschlossene Projekte",
+  "description": "Beispiele erfolgreicher Projekte, die wir für Kunden in Herat und ganz Afghanistan geliefert haben",
+  "viewProject": "Projekt Ansehen",
+  "allProjects": "Alle Projekte",
+  "hero": {
+    "badge": "Unser Portfolio",
+    "title1": "Wo Vision auf",
+    "title2": "Außergewöhnliche Ausführung trifft",
+    "description": "Entdecken Sie, wie wir Unternehmen branchenweit mit innovativen digitalen Lösungen transformiert haben. Jedes Projekt steht für unser Engagement für Exzellenz, Kreativität und messbare Ergebnisse, die echtes Geschäftswachstum vorantreiben.",
+    "highlights": {
+      "awardWinning": "Preisgekrönte Arbeit",
+      "provenResults": "Bewährte Ergebnisse",
+      "clientSuccess": "Kunden-Erfolgsgeschichten"
+    },
+    "startProject": "Starten Sie Ihr Projekt"
+  },
+  "stats": {
+    "projectsDelivered": "Ausgelieferte Projekte",
+    "happyClients": "Zufriedene Kunden",
+    "successRate": "Erfolgsquote",
+    "workSamples": "Arbeitsproben"
+  },
+  "intro": {
+    "title": "Echte Projekte. Echte Ergebnisse. Echte Wirkung.",
+    "description": "Unser Portfolio präsentiert vielfältige Projekte in den Bereichen Webentwicklung, Mobile Anwendungen, digitale Marketingkampagnen, Markenidentitäten, Videoproduktion und technische Infrastruktur. Jede Arbeitsprobe demonstriert unsere Expertise in der Bereitstellung schöner, funktionaler und ergebnisorientierter Lösungen. Von Startups bis zu Unternehmen haben wir Firmen geholfen, ihre digitalen Ziele mit innovativen Strategien und makelloser Ausführung zu erreichen. Erkunden Sie unsere nach Servicekategorie organisierten Arbeiten und sehen Sie, wie wir Ihre Vision zum Leben erwecken können."
+  },
+  "filter": {
+    "all": "Alle",
+    "web": "Website",
+    "mobile": "Mobil",
+    "design": "Design",
+    "ecommerce": "E-Commerce"
+  },
+  "noProjects": "Keine Projekte in dieser Kategorie gefunden.",
+  "keyResults": "Wichtige Ergebnisse:",
+  "duration": "Dauer:",
+  "viewCaseStudy": "Fallstudie Ansehen",
+  "trustIndicators": {
+    "trustedBy": "Vertraut von Branchenführern weltweit",
+    "projectsCount": "200+ Projekte",
+    "successRate": "98% Erfolgsquote",
+    "awardWinning": "Preisgekrönt"
+  },
+  "cta": {
+    "title": "Bereit, Ihre Erfolgsgeschichte zu starten?",
+    "description": "Schließen Sie sich über 150 zufriedenen Kunden an, die Kawesh für ihre digitale Transformation gewählt haben. Lassen Sie uns gemeinsam etwas Außergewöhnliches schaffen.",
+    "viewDetails": "Projektdetails Ansehen",
+    "contactUs": "Kontaktieren Sie Uns Heute",
+    "successRate": "98% Erfolgsquote",
+    "awardWinning": "Preisgekrönt"
+  },
+  "seo": {
+    "title": "Unser Portfolio - Ausgewählte Projekte & Fallstudien | Kawesh",
+    "description": "Entdecken Sie Kaweshs Portfolio erfolgreicher digitaler Projekte. Von Webentwicklung bis zu mobilen Apps, digitalem Marketing, Branding, Videoproduktion und Hosting-Lösungen.",
+    "keywords": "portfolio, fallstudien, webentwicklungsprojekte, mobile app projekte, digitale marketingkampagnen, branding arbeit, videoproduktion, erfolgsgeschichten",
+    "ogTitle": "Unser Portfolio - Ausgewählte Projekte & Fallstudien | Kawesh",
+    "ogDescription": "Erkunden Sie unser Portfolio erfolgreicher digitaler Projekte in Web, Mobil, Marketing, Design und mehr."
+  }
+}
