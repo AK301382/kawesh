@@ -301,7 +301,7 @@ const ServicesPage = () => {
                           className="w-full bg-blue-600 hover:bg-blue-700 text-white group/btn shadow-md hover:shadow-lg transition-all py-6"
                           data-testid={`service-cta-${service.id}`}
                         >
-                          <span className="font-semibold">Explore Service</span>
+                          <span className="font-semibold">{t('services:services.exploreService')}</span>
                           <ArrowRight className="ml-2 w-5 h-5 group-hover/btn:translate-x-1 transition-transform" />
                         </Button>
                       </Link>
