@@ -32,6 +32,7 @@ import * as Icons from 'lucide-react';
 
 const ServicesPage = () => {
   const { t } = useTranslation(['services']);
+  const servicesData = useServicesData();
   
   // State for FAQ accordion
   const [openFaqIndex, setOpenFaqIndex] = useState(null);
