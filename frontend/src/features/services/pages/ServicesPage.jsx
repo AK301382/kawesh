@@ -573,13 +573,13 @@ const ServicesPage = () => {
 
               {/* Trust Indicators */}
               <div className="mt-12 pt-8 border-t border-white/20">
-                <p className="text-blue-100 text-sm mb-4">Trusted by leading businesses worldwide</p>
+                <p className="text-blue-100 text-sm mb-4">{t('services:cta.trustedBy')}</p>
                 <div className="flex justify-center items-center gap-8 flex-wrap opacity-80">
-                  <div className="text-white font-semibold">Fortune 500 Companies</div>
+                  <div className="text-white font-semibold">{t('services:cta.fortune500')}</div>
                   <div className="w-1 h-1 bg-white rounded-full"></div>
-                  <div className="text-white font-semibold">Startups & SMBs</div>
+                  <div className="text-white font-semibold">{t('services:cta.startups')}</div>
                   <div className="w-1 h-1 bg-white rounded-full"></div>
-                  <div className="text-white font-semibold">Global Enterprises</div>
+                  <div className="text-white font-semibold">{t('services:cta.enterprises')}</div>
                 </div>
               </div>
             </div>
