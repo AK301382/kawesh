@@ -283,7 +283,7 @@ const ServicesPage = () => {
                       <div className="flex-grow">
                         <h4 className="text-sm font-semibold text-gray-900 dark:text-white mb-3 flex items-center">
                           <CheckCircle2 className="w-4 h-4 mr-2 text-green-600 dark:text-green-400" />
-                          What's Included:
+                          {t('services:services.whatsIncluded')}
                         </h4>
                         <ul className="space-y-2">
                           {service.features.slice(0, 4).map((feature, idx) => (
