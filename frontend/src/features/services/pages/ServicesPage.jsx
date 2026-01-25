@@ -6,7 +6,7 @@ import SEOOptimized from '../../../components/common/SEOOptimized';
 import LazyImage from '../../../components/common/LazyImage';
 import ServiceCardSkeleton from '../components/ServiceCardSkeleton';
 import Testimonials from '../../../components/common/Testimonials';
-import { servicesData } from '../../../lib/config/servicesData';
+import { useServicesData } from '../../../hooks/useServicesData';
 import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '../../../components/ui/card';
 import { Button } from '../../../components/ui/button';
 import { Badge } from '../../../components/ui/badge';
